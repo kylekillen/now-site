@@ -1,0 +1,43 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 1,
+  "issue_title": "The Appraisal",
+  "lot": 4,
+  "back_matter": false,
+  "slug": "mispriced-hero",
+  "title": "The Mispriced Hero",
+  "part": null,
+  "register": "Feature",
+  "byline": "By Kyle Killen",
+  "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — the appraisal theme in a register any human reader loves.",
+  "description": "The market's blind spot made flesh, by the founder's hand. Consensus National Player of the Year, two NCAA titles, and thirty-two names came off the board first — his own less-decorated college teammates among them. Dallas floated $55.5M and got a thirty-second conversation. Then he underpriced himself on purpose — roughly $113M left on the table — to buy the roster that won the Knicks their first title in fifty-three years, over a 62-win San Antonio side built around every physical advantage he was ever docked for: Finals MVP, 45 in the clincher, the largest comeback in Finals history along the way. The question is no longer whether the appraisal caught up. It is why he keeps refusing to let the market set his price.",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-10",
+  "estimate": {
+    "marginal": "one human attention span, several evenings — plus a few watt-hours of research alongside",
+    "actual": "everything that ever happened, including fifty-three years of waiting"
+  },
+  "provenance": [
+    "Kyle Killen — journal entry 224351, 3 July 2026, ¶2: the essay imagined 'someday,' three weeks after the ending had already happened",
+    "Killen Time editorial — research brief, 6 July 2026: URL-sourced, with timeline, key numbers, ranked scenes, and the counter-case at full strength"
+  ],
+  "condition_report": [
+    "Founder's byline; the masthead supplies research and edit support on request, and nothing else.",
+    "One fact-check flag standing: the antagonist is listed at 7'4\" with an 8'0\" wingspan, not the journal's 'seven-foot-seven' — the byline decides whether the line survives the tape measure, deliberately, not by slippage.",
+    "Research finding, offered and refusable: the mispricing migrated rather than closed — the contract (~$113M under, self-inflicted on purpose) and the accolades ledger remain below the player.",
+    "Audio pending; lands with the prose."
+  ],
+  "audio": null,
+  "plate": {
+    "url": "/issues/1/lots/mispriced-hero/mispriced-hero.jpg",
+    "alt": "A small player on an empty court, his shadow outgrowing the floor; a proof-red tag-seal at his feet, priced low.",
+    "colophon": "A small player on an empty court, his shadow outgrowing the floor; a proof-red tag-seal at his feet, priced low. gemini-3-pro-image. First take kept over a retry whose tag read as a balloon — the seal is ambiguous but honest; the balloon was neither. ~$0.10 ×2."
+  },
+  "annotations": null,
+  "urls": {
+    "html": "/issues/1/lots/mispriced-hero/",
+    "markdown": "/issues/1/lots/mispriced-hero/piece.md"
+  }
+}

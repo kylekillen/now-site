@@ -1,0 +1,353 @@
+/* auction_catalog — Issue No. 1: THE APPRAISAL.
+   Typographic skeleton inherited from the founding brief (Didot display,
+   New York/Hoefler body, machine mono furniture, bone paper, one proof red)
+   re-set inside the auction-catalog conceit. Zero external requests. */
+
+:root{
+  --paper:#f3ede1;
+  --paper-2:#ece4d4;
+  --ink:#1a1613;
+  --ink-2:#4a4239;
+  --ink-ghost:#a99f8d;
+  --rule:#c9bda6;
+  --rule-strong:#9c8f76;
+  --red:#a11e10;
+  --serif-display:"Didot","Bodoni 72",Georgia,"Times New Roman",serif;
+  --serif-body:ui-serif,"New York","Hoefler Text",Charter,Georgia,serif;
+  --mono:ui-monospace,"SF Mono","IBM Plex Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --paper:#17140f;
+    --paper-2:#1e1a13;
+    --ink:#e9e0cf;
+    --ink-2:#b6ab97;
+    --ink-ghost:#6b6152;
+    --rule:#3a3327;
+    --rule-strong:#554c3b;
+    --red:#e2503f;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--serif-body);
+  font-size:clamp(17px,1.1vw + 14px,19px);
+  line-height:1.6;
+  font-variant-numeric:oldstyle-nums proportional-nums;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+a{color:inherit;text-decoration:none;border-bottom:1px solid var(--rule-strong);padding-bottom:1px}
+a:hover{color:var(--red);border-color:var(--red)}
+code{font-family:var(--mono);font-size:.85em}
+.wrap{max-width:1220px;margin:0 auto;padding:0 clamp(18px,4vw,56px)}
+.lbl{color:var(--ink);text-transform:uppercase;letter-spacing:.14em;font-size:10.5px;font-family:var(--mono)}
+.dim{color:var(--ink-ghost)}
+.red{color:var(--red);font-weight:600}
+
+/* ---------------- masthead ---------------- */
+.mast{padding-top:clamp(18px,3vw,36px)}
+.topline{
+  display:flex;justify-content:space-between;align-items:baseline;gap:1em;flex-wrap:wrap;
+  font-family:var(--mono);font-size:11px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-2);
+  border-bottom:1px solid var(--rule);padding-bottom:10px;
+}
+.topline .home{border-bottom:none;font-weight:700;color:var(--ink);letter-spacing:.2em}
+.nameplate{
+  font-family:var(--serif-display);font-weight:400;margin:.14em 0 0;
+  font-size:clamp(110px,26vw,340px);line-height:.86;text-align:center;
+  letter-spacing:.01em;
+}
+.dateline{
+  text-align:center;font-family:var(--mono);font-size:clamp(12px,1.6vw,15px);
+  letter-spacing:.32em;color:var(--ink-2);margin:.9em 0 1.1em;
+}
+.statusband{
+  display:flex;justify-content:center;align-items:center;gap:.8em;flex-wrap:wrap;
+  font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;color:var(--red);
+  border-top:1px solid var(--rule);border-bottom:3px double var(--rule-strong);
+  padding:11px 0;font-weight:600;
+}
+.statusband.down{color:var(--ink-2)}
+.statusband.down .hammer{color:var(--ink);font-weight:700}
+.pulse{width:8px;height:8px;border-radius:50%;background:var(--red);flex:none;
+  animation:pulse 2.4s ease-out infinite}
+@keyframes pulse{
+  0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--red) 55%,transparent)}
+  70%{box-shadow:0 0 0 9px transparent}
+  100%{box-shadow:0 0 0 0 transparent}
+}
+@media (prefers-reduced-motion:reduce){.pulse{animation:none}}
+.mast.small .topline{padding-top:0;padding-bottom:12px}
+
+/* ---------------- frontispiece ---------------- */
+.frontis{margin:clamp(22px,3.5vw,44px) auto 0;max-width:760px}
+.frontis svg{width:100%;height:auto;display:block;border:1px solid var(--rule);
+  background:var(--paper-2)}
+.plate-cap{font-family:var(--mono);font-size:11px;line-height:1.5;color:var(--ink-2);
+  margin:.7em 0 0;padding-left:14px;border-left:2px solid var(--red)}
+
+/* ---------------- foreword ---------------- */
+.foreword{max-width:70ch;margin:clamp(26px,4vw,52px) auto;text-align:center}
+.fore-line{font-family:var(--mono);font-size:11.5px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--ink-2);margin:0 0 1em}
+.fore-thesis{font-family:var(--serif-display);font-size:clamp(21px,2.6vw,30px);
+  line-height:1.3;font-style:italic;margin:0}
+
+/* ---------------- catalog grid ---------------- */
+.cat-grid{display:grid;grid-template-columns:1fr;gap:0;border-top:2px solid var(--rule-strong)}
+@media(min-width:960px){
+  .cat-grid{grid-template-columns:minmax(0,1fr) 300px;column-gap:clamp(32px,4vw,64px)}
+  .rail{border-left:1px solid var(--rule);padding-left:clamp(28px,3vw,44px)}
+}
+.dept-head{font-family:var(--mono);font-size:12.5px;letter-spacing:.22em;
+  text-transform:uppercase;font-weight:600;margin:26px 0 4px}
+
+/* ---------------- lot rows ---------------- */
+.lot-row{display:grid;grid-template-columns:clamp(64px,8vw,96px) 1fr;
+  gap:0 clamp(14px,2.5vw,30px);padding:clamp(22px,3vw,34px) 0;
+  border-bottom:1px solid var(--rule);align-items:start}
+.lot-no{font-family:var(--mono);font-size:13px;letter-spacing:.1em;color:var(--red);
+  font-weight:700;padding-top:.5em;white-space:nowrap}
+.lot-kicker{font-family:var(--mono);font-size:11px;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--ink-2);margin:0 0 .55em;
+  display:flex;gap:.8em;align-items:center;flex-wrap:wrap}
+.lot-kicker .reg{border:1px solid var(--rule-strong);padding:2px 7px;border-radius:2px}
+.lot-title{font-family:var(--serif-display);font-weight:400;
+  font-size:clamp(27px,4vw,42px);line-height:1.02;margin:0 0 .35em}
+.lot-title a{border-bottom:none}
+.lot-desc{margin:.3em 0 .7em;color:var(--ink-2);max-width:58ch;
+  font-size:clamp(16px,1.1vw,18px);line-height:1.5}
+.lot-note{font-family:var(--mono);font-size:11px;color:var(--ink-2);max-width:58ch;
+  margin:.2em 0 .8em;padding-left:12px;border-left:2px solid var(--rule-strong)}
+.lot-byline{font-family:var(--mono);font-size:11px;letter-spacing:.08em;
+  color:var(--ink-2);margin:0 0 .8em}
+.est-line{font-family:var(--mono);font-size:11px;line-height:1.6;color:var(--ink-2);
+  border-top:1px solid var(--rule);padding-top:.7em;max-width:60ch}
+.est-or{font-style:italic;color:var(--ink-ghost)}
+.lot-status{font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;
+  text-transform:uppercase;margin-top:.9em;display:flex;align-items:center;
+  gap:.6em;flex-wrap:wrap}
+.lot-status.upcoming{color:var(--ink-ghost)}
+.lot-row.ghost{border-left:2px dashed var(--rule-strong);padding-left:clamp(12px,2vw,20px);
+  margin-left:-2px}
+.lot-row.ghost .lot-title,.lot-row.ghost .lot-desc{color:var(--ink-ghost)}
+.lot-row.ghost .lot-no{color:var(--ink-ghost)}
+.lot-row.ghost .lot-desc{font-style:italic}
+
+/* ---------------- plates ---------------- */
+.plate{max-width:66ch;margin:clamp(22px,3vw,34px) auto 0}
+.plate img{width:100%;height:auto;display:block;border:1px solid var(--rule);
+  background:var(--paper-2)}
+.lot-thumb{margin:0;align-self:start}
+.lot-thumb a{border-bottom:none;display:block}
+.lot-thumb img{width:100%;height:auto;display:block;border:1px solid var(--rule)}
+.lot-row.has-thumb .lot-thumb{grid-column:2;margin-top:14px;max-width:420px}
+@media(min-width:760px){
+  .lot-row.has-thumb{grid-template-columns:clamp(64px,8vw,96px) 1fr 220px}
+  .lot-row.has-thumb .lot-thumb{grid-column:auto;margin-top:.5em;max-width:none}
+}
+.lot-row.ghost .lot-thumb img{opacity:.55;filter:grayscale(35%)}
+
+/* ---------------- back-matter ---------------- */
+.back-matter{margin-top:clamp(26px,3vw,40px)}
+.back-matter .dept-head{border-top:3px double var(--rule-strong);padding-top:22px}
+.bm-row{border-bottom:none}
+.bm-row .lot-no{color:var(--ink-2);font-size:16px}
+
+/* ---------------- rail: saleroom + signal ---------------- */
+.dept-mark{width:64px;height:64px;display:block;border:1px solid var(--rule);
+  margin:22px 0 2px}
+.mark-cap{font-family:var(--mono);font-size:10px;line-height:1.5;color:var(--ink-ghost);
+  margin:.9em 0 0}
+.player.mini{max-width:none;margin:0 0 16px;padding:10px 12px;gap:10px;flex-wrap:wrap}
+.player.mini .pp{width:34px;height:34px;font-size:12px}
+.player.mini .readby{flex-basis:100%;margin-top:2px}
+.saleroom .dept-sub,.signal p{font-size:14.5px;line-height:1.55;color:var(--ink-2)}
+.dept-sub{margin:.4em 0 1em}
+.notice{padding:14px 0;border-bottom:1px solid var(--rule)}
+.notice:first-of-type{border-top:2px solid var(--rule-strong)}
+.n-date{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--red);margin-bottom:5px}
+.notice p{margin:0;font-size:15.5px;line-height:1.45}
+.signal{margin-top:38px;padding:18px;background:var(--paper-2);border:1px solid var(--rule)}
+.signal .dept-head{margin-top:0}
+.machine-strip{font-family:var(--mono);font-size:11px;line-height:1.8;color:var(--ink-2)}
+
+/* ---------------- colophon ---------------- */
+.colophon{margin-top:clamp(40px,5vw,72px);border-top:3px double var(--rule-strong);
+  padding:clamp(22px,3vw,34px) 0 clamp(50px,6vw,90px)}
+.colo{font-family:var(--mono);font-size:11.5px;line-height:1.7;letter-spacing:.02em;
+  color:var(--ink-2);display:grid;gap:6px;max-width:80ch}
+.colo-cost{margin-top:14px;padding-top:14px;border-top:1px solid var(--rule)}
+.archive-seam{display:flex;justify-content:space-between;align-items:baseline;gap:10px;
+  flex-wrap:wrap;margin-top:34px;padding-top:18px;border-top:1px solid var(--rule);
+  font-family:var(--mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+.archive-seam a{color:var(--red)}
+.archive-seam .note{color:var(--ink-2);font-size:11px;text-transform:none;letter-spacing:.05em}
+
+/* ================= LOT PAGE ================= */
+.lot-page{max-width:1180px;margin:0 auto}
+.lot-head{text-align:center;padding:clamp(26px,4vw,52px) 0 clamp(18px,2.5vw,30px);
+  border-bottom:1px solid var(--rule)}
+.lot-no-big{font-family:var(--mono);font-size:14px;letter-spacing:.3em;color:var(--red);
+  font-weight:700;margin:0 0 1.2em}
+.lot-h1{font-family:var(--serif-display);font-weight:400;
+  font-size:clamp(38px,7.5vw,84px);line-height:.98;margin:.2em auto .3em;max-width:18ch}
+.lot-thesis{font-family:var(--serif-body);font-style:italic;color:var(--ink-2);
+  font-size:clamp(18px,1.5vw,22px);line-height:1.45;max-width:52ch;margin:.4em auto 1.1em}
+.lot-page .lot-kicker{justify-content:center}
+.lot-page .lot-byline{text-align:center;margin-bottom:.4em}
+
+/* audio player */
+.player{display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  max-width:66ch;margin:clamp(20px,3vw,30px) auto 0;padding:14px 18px;
+  border:1px solid var(--rule-strong);background:var(--paper-2)}
+.player .pp{font-family:var(--mono);font-size:15px;width:44px;height:44px;flex:none;
+  border:1px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer;
+  border-radius:50%}
+.player .pp.ghosted{background:transparent;color:var(--ink-ghost);
+  border-color:var(--rule-strong);display:inline-flex;align-items:center;justify-content:center}
+.player .bar{flex:1;min-width:120px;height:4px;background:var(--rule);cursor:pointer}
+.player .bar-fill{height:100%;width:0;background:var(--red)}
+.player .ptime,.player .readby,.pend-line{font-family:var(--mono);font-size:11px;
+  letter-spacing:.06em;color:var(--ink-2)}
+.player .spd{font-family:var(--mono);font-size:11px;letter-spacing:.06em;
+  color:var(--ink-2);background:transparent;border:1px solid var(--rule);
+  padding:3px 8px;cursor:pointer;flex:none}
+.player .spd:hover{color:var(--red);border-color:var(--red)}
+.player.pending{border-style:dashed}
+.pend-line{flex:1;line-height:1.6;text-transform:uppercase}
+
+/* apparatus: estimate / provenance / condition */
+.apparatus{display:grid;grid-template-columns:1fr;gap:14px;
+  max-width:1100px;margin:clamp(22px,3vw,34px) auto}
+@media(min-width:860px){
+  .apparatus.n3{grid-template-columns:1fr 1.2fr 1.2fr}
+  .apparatus.n2{grid-template-columns:1fr 1.4fr}
+  .apparatus.n1{grid-template-columns:minmax(0,560px);justify-content:center}
+}
+.app-card{border:1px solid var(--rule);padding:16px 18px;background:var(--paper)}
+.app-card h4{font-family:var(--mono);font-size:11px;letter-spacing:.22em;margin:0 0 .8em;
+  color:var(--ink);font-weight:600}
+.app-card p{margin:0 0 .4em;font-size:14.5px;line-height:1.5}
+.app-card.est{border-color:var(--rule-strong)}
+.app-card.est p:first-of-type{font-family:var(--mono);font-size:12.5px;color:var(--ink-2)}
+.app-card.est p:last-of-type{font-family:var(--serif-display);font-style:italic;
+  font-size:17px}
+.app-card.est .est-or{font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--ink-ghost);margin:.5em 0}
+.app-card ul{margin:0;padding:0;list-style:none}
+.app-card.prov li{font-style:italic;font-size:14px;line-height:1.5;padding:.35em 0;
+  border-bottom:1px dotted var(--rule)}
+.app-card.prov li:last-child{border-bottom:none}
+.app-card.cond li{font-family:var(--mono);font-size:11.5px;line-height:1.65;
+  padding:.4em 0;color:var(--ink-2);border-bottom:1px dotted var(--rule)}
+.app-card.cond li:last-child{border-bottom:none}
+
+/* exhibition band */
+.exhibit-band{display:flex;align-items:center;gap:.7em;max-width:1100px;
+  margin:0 auto clamp(18px,2.5vw,26px);padding:12px 16px;
+  border:1px solid var(--red);color:var(--red);
+  font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;
+  text-transform:uppercase;line-height:1.7}
+.exhibit-band.upcoming-band{border-color:var(--rule-strong);color:var(--ink-2);
+  border-style:dashed}
+
+/* marginalia toggle */
+.mgn-toggle{display:block;margin:0 auto clamp(20px,3vw,30px);
+  font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;
+  padding:12px 22px;background:transparent;color:var(--ink);cursor:pointer;
+  border:1px solid var(--ink);text-transform:uppercase}
+.mgn-toggle:hover{border-color:var(--red);color:var(--red)}
+body.marginalia-on .mgn-toggle{background:var(--ink);color:var(--paper)}
+
+/* the paper: prose + margins */
+.paper{position:relative;max-width:66ch;margin:0 auto;
+  padding-bottom:clamp(30px,4vw,50px)}
+@media(min-width:1080px){
+  body.marginalia-on .paper{max-width:none;display:grid;
+    grid-template-columns:minmax(0,66ch) 340px;column-gap:48px;
+    justify-content:center}
+}
+.prose{font-size:clamp(17px,1.15vw,19px);line-height:1.65}
+.prose h2,.prose h3,.prose h4{font-family:var(--serif-display);font-weight:400;
+  line-height:1.1;margin:1.6em 0 .5em}
+.prose h2{font-size:clamp(26px,3vw,34px)}
+.prose h3{font-size:clamp(21px,2.2vw,26px)}
+.prose h4{font-family:var(--mono);font-size:12px;letter-spacing:.18em;
+  text-transform:uppercase}
+.prose blockquote{margin:1.4em 0;padding:.2em 0 .2em 1.2em;
+  border-left:2px solid var(--rule-strong);font-style:italic;color:var(--ink-2)}
+.prose ul,.prose ol{padding-left:1.3em}
+.prose li{margin:.45em 0}
+.sbreak{text-align:center;color:var(--ink-2);margin:2em 0;font-size:18px;
+  letter-spacing:.5em}
+.upcoming-desc{font-size:clamp(18px,1.4vw,21px);line-height:1.6}
+.upcoming-thesis{font-family:var(--mono);font-size:12px;letter-spacing:.06em;
+  line-height:1.8;color:var(--ink-2);border-top:1px solid var(--rule);
+  padding-top:1.2em;text-transform:uppercase}
+
+/* anchors */
+.ann-anchor{background:transparent;color:inherit;border-bottom:2px dotted transparent;
+  transition:background .15s,border-color .15s;cursor:pointer}
+body.marginalia-on .ann-anchor{
+  background:color-mix(in srgb,var(--red) 12%,transparent);
+  border-bottom-color:var(--red)}
+
+/* margin notes */
+.margins{position:relative;display:none}
+body.marginalia-on .margins{display:block}
+aside.mgn{display:none;border-left:2px solid var(--ink-2);background:var(--paper-2);
+  padding:12px 14px;margin:1.2em 0;font-size:13px;line-height:1.5;max-width:52ch}
+body.marginalia-on aside.mgn{display:block}
+aside.mgn.floated{position:absolute;left:0;right:0;margin:0;max-width:none}
+aside.mgn.kind-refusal,aside.mgn.kind-fight{border-left-color:var(--red)}
+aside.mgn.kind-provenance{border-left-style:dashed}
+aside.mgn.stage{border-left-style:double;border-left-width:5px}
+.mgn-head{display:flex;gap:.8em;align-items:baseline;flex-wrap:wrap;margin-bottom:.6em}
+.mgn-kind{font-family:var(--mono);font-size:9.5px;letter-spacing:.2em;color:var(--paper);
+  background:var(--ink-2);padding:2px 6px}
+aside.mgn.kind-refusal .mgn-kind,aside.mgn.kind-fight .mgn-kind{background:var(--red)}
+.mgn-title{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink);font-weight:600}
+.mgn-stage-note{margin:0;font-style:italic;color:var(--ink-2);font-size:12.5px}
+.turn{margin:.55em 0;padding-top:.55em;border-top:1px dotted var(--rule)}
+.turn:first-of-type{border-top:none;padding-top:0}
+.turn .who{font-family:var(--mono);font-size:9.5px;letter-spacing:.18em;color:var(--red);
+  font-weight:700;margin-right:.7em}
+aside.mgn .turn:nth-child(odd) .who{color:var(--ink)}
+.turn .role{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;
+  color:var(--ink-ghost);text-transform:uppercase}
+.turn p{margin:.3em 0 0;color:var(--ink-2)}
+.mgn-stamp{margin-top:.7em;display:inline-block;font-family:var(--mono);font-size:9.5px;
+  letter-spacing:.16em;border:1px solid var(--ink-2);padding:3px 8px;color:var(--ink);
+  text-transform:uppercase;transform:rotate(-1.2deg)}
+aside.mgn.kind-refusal .mgn-stamp{border-color:var(--red);color:var(--red)}
+
+/* lot machine strip + nav */
+.lot-machine{max-width:66ch;margin:0 auto;border-top:1px solid var(--rule);
+  padding-top:1em;text-align:center}
+.lot-nav{display:flex;justify-content:center;gap:1.6em;flex-wrap:wrap;
+  font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  margin:clamp(24px,3vw,36px) 0 0}
+
+/* ================= ARCHIVE ================= */
+.archive-page{max-width:74ch;margin:0 auto;padding-top:clamp(26px,4vw,48px);
+  text-align:center}
+.archive-fore{color:var(--ink-2);font-size:clamp(17px,1.3vw,20px);line-height:1.6}
+.archive-fore.future{font-style:italic}
+.shelf{margin-top:clamp(28px,4vw,44px);border-top:2px solid var(--rule-strong);
+  text-align:left}
+.shelf-item{display:flex;justify-content:space-between;align-items:baseline;gap:1em;
+  flex-wrap:wrap;padding:20px 0;border-bottom:1px solid var(--rule)}
+.shelf-item a{border-bottom:none}
+.shelf-no{font-family:var(--mono);font-size:12px;letter-spacing:.14em;color:var(--red);
+  margin-right:.8em}
+.shelf-title{font-family:var(--serif-display);font-size:clamp(24px,3vw,34px)}
+.shelf-state{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--ink-2)}
+.shelf-item.down .shelf-state{color:var(--ink)}

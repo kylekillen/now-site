@@ -1,0 +1,190 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 1,
+  "issue_title": "The Appraisal",
+  "lot": 2,
+  "back_matter": false,
+  "slug": "worthless-part-ii",
+  "title": "The Velvet Rope",
+  "part": "WORTHLESS · a triptych · Part II",
+  "register": "Feature",
+  "byline": "By the same staff writer — the triptych is one mind's argument",
+  "thesis": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
+  "description": "The second panel. Value as a membership machine — scarcity the product, abundance the disqualification — run without a change of gears from Warhol's Factory to Koons's balloons, Venice buying Rome's aesthetics to launder its legitimacy, penthouse scarcity built into infinite digital space, and the polite replacement of one word for the poor with another. Inherits, by ruling from the Lot 1 fight, the full Hansonian sacred: the refusal to price a thing as the very technology that keeps it tribal.",
+  "status": "landed",
+  "text_stage": "final",
+  "hammer_day": "2026-07-06",
+  "estimate": {
+    "marginal": "a few watt-hours · a sip of cooling water · cheaper than the rope itself",
+    "actual": "everything that ever happened — plus every velvet rope ever paid for"
+  },
+  "provenance": [
+    "Draft v3, 5 July 2026 — the essay that was secretly a different essay, given its own name so it stops eating its sibling; to be quoted, never continued",
+    "Kyle Killen — journal entry 152302, 5 July 2026: the Boom book, Koons, Palmer and Venice, the language loop",
+    "Editor's ruling on Lot 1, 6 July 2026 — the full Hansonian sacred assigned here as a movement, not a maybe"
+  ],
+  "condition_report": [
+    "Outlined, drafted, adversarially read (three ship-blockers, all repaired), rewritten, and polished in a single day.",
+    "The commissioning note remembered Florence as Venice; drafted on the tape, the recollection corrected, the point stronger for it.",
+    "One of the adversarial's notes refused in part (the Bubbles specimen), editor concurred.",
+    "Inherits and pays the full Hansonian sacred by ruling from the Lot 1 fight.",
+    "Sold with its reading attached (21:47)."
+  ],
+  "audio": {
+    "url": "https://brave-portal-gpw9.here.now/2026-07-06-worthless-part-ii.mp3",
+    "duration": "21:47",
+    "read_by": "Kokoro af_heart"
+  },
+  "plate": {
+    "url": "/issues/1/lots/worthless-part-ii/worthless-part-ii.jpg",
+    "alt": "A stanchion in black ink, its velvet rope drawn in proof-red across a doorway that is open and empty.",
+    "colophon": "A stanchion in black ink, its velvet rope drawn in proof-red across a doorway that is open and empty. The rope is the only color because the rope is the only product. gemini-3-pro-image. Second of two takes — the first rendered the stanchion in brass gold, a second color the house does not permit. ~$0.10 ×2."
+  },
+  "annotations": {
+    "piece": "worthless-part-ii",
+    "stage": "final",
+    "stage_note": "Final-prose marginalia. These notes are anchored to the shipped essay and its colophon — the real fights of the rewrite station, preserved where they happened. Nothing here is dramatized: every entry is quoted or condensed from the piece's actual edit record (PART-II-OUTLINE.md, ADVERSARIAL-READ-P2.md, the editor's rulings, P2-REWRITE-MEMO.md, P2-VERIFICATION.md), which is preserved in full.",
+    "annotations": [
+      {
+        "id": "exit-clause",
+        "kind": "note",
+        "title": "The door the essay points at and refuses to open",
+        "anchor": "Unless something in the arrangement stays scarce",
+        "disposition": "RULED: ONE SENTENCE, THIRD PERSON, UNANSWERED — SHIPPED EXACTLY TO CONSTRAINT",
+        "thread": [
+          {
+            "who": "WRITER",
+            "role": "outline, uncertainty flagged",
+            "text": "Movement 8's exit clause — a particular history, accumulated in one place, answerable for itself — may already be too much Part III. I've kept it to one pointing clause with no first person and no masthead, but the seam between pointing at the door and opening it is exactly the kind I exist to hold, so I want your read."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "The clause stays, held to constraint: one sentence, third person, a category rather than a masthead, and it goes unanswered. The essay points, and stops. Part III walks through."
+          },
+          {
+            "who": "ADVERSARIAL",
+            "role": "seam audit",
+            "text": "One sentence, third person, categorical — no byline, no masthead — unanswered. PASS, exactly to the editor's constraint. And a warning for the rewrite: this is the one thing it must not touch. It sits inside the same closing block the impossibility-claim repair will reopen; every 'improvement' to it risks spending Part III's door. Repair around it."
+          },
+          {
+            "who": "WRITER",
+            "role": "rewrite, outcome",
+            "text": "Untouched — verbatim from draft 1. The repair happened around it as instructed: the Belamy paragraph now arrives one movement early as evidence, so the door is primed by the record before the clause points at it. Primed, never opened."
+          }
+        ]
+      },
+      {
+        "id": "impossibility-claim",
+        "kind": "fight",
+        "title": "The closing verdict the market had already falsified",
+        "anchor": "The rope did not refute itself at Christie's",
+        "disposition": "REPAIR MANDATORY — TAKEN; THE COUNTEREXAMPLE BECAME THE CONFIRMATION",
+        "thread": [
+          {
+            "who": "ADVERSARIAL",
+            "role": "finding 1, severity 1",
+            "text": "The draft's last page said AI art 'cannot be singularized, curated, roped' — and the art-market professional answers in one breath: Edmond de Belamy, Christie's 2018, $432,500. Beeple, $69.3 million. Anadol, acquired by MoMA. AI art is being roped right now, by the exact machine this essay describes. Worse: the essay's own thesis predicts these cases — scarcity is policy, manufacturable out of anything — so the counterexamples don't break the thesis; they break the sentence, because the sentence claims impossibility where the thesis only requires that value live in the rope."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Fix as the adversarial directs: scope the verdict to the unsigned on-demand torrent, and absorb one counterexample as the rope working exactly as designed — a named, auctioned, singularized AI work is the membership machine doing its job, the strongest possible confirmation. Pick one; Belamy at Christie's is cleanest for the auction register. Verify its particulars by web before printing. Do not touch the exit clause — repair around it."
+          },
+          {
+            "who": "WRITER",
+            "role": "repair, verified",
+            "text": "Verified: October 25, 2018, $432,500 against a seven-to-ten-thousand-dollar estimate, and the detail that earns its place — the portrait is signed not with a name but with a fragment of the algorithm's loss function, because the frame had a slot where the name goes and something had to fill it. The absorption inverts the objection: the network's output was infinite, and what sold was not the output but a first — singularized, house-consecrated, on the record. The verdict now falls where it is true, on the torrent. The rope did not refute itself at Christie's; it demonstrated itself."
+          }
+        ]
+      },
+      {
+        "id": "symmetry-blocker",
+        "kind": "fight",
+        "title": "Symmetry asserted is not symmetry run",
+        "anchor": "identical from the seminar room to the gun show",
+        "disposition": "EDITOR'S BINDING CONDITION, UNMET IN DRAFT 1 — NOW MET",
+        "thread": [
+          {
+            "who": "EDITOR",
+            "role": "outline acceptance, binding condition",
+            "text": "The language movement runs the machine symmetrically, in every direction, or it reads as a culture-war potshot and the mechanism dies of partisanship. Binding."
+          },
+          {
+            "who": "ADVERSARIAL",
+            "role": "finding 2, severity 1",
+            "text": "The draft gestures at symmetry and then works two specimens — the Negro/Black/African-American loop and woke — and both are Black American vocabulary. The woke paragraph shows the right wielding a left-coded word as a weapon, which is a different operation from the right being sorted by its own in-group lexicon. Under a hostile left reading: your two case studies of status-language are both Black speech — chosen by whom, to sort whom? Under a hostile right reading: the deep dive is still into progressive etiquette. Both primed readers detonate. 'The machine has no politics' is the correct finding stated as a caption on a demonstration that wasn't performed."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "The original condition stands unmet and now gets met: one non-left in-group specimen actually worked — the clip/magazine shibboleth in gun culture is approved; verify the usage lore. Restore homeless/unhoused as a worked example — it is in the thesis line and it is class-coded. And kill 'the sorting is the entire function.'"
+          },
+          {
+            "who": "WRITER",
+            "role": "repair",
+            "text": "Both specimens worked, lore verified. The unhoused example runs on class — 'The word about the man with no address sorts the people who have them' is the sentence I would defend hardest in the piece. The gun counter runs the identical machinery with reversed polarity, correction-pleasure included. And the Kelley correction gave the movement something better than balance: the one circle whose rope was a wall against siege gets its honest reason on the page, in its own author's argument. The finding stays what it was — the machine is indifferent to which circle it sorts."
+          }
+        ]
+      },
+      {
+        "id": "venice-florence",
+        "kind": "provenance",
+        "title": "Kyle's memory said Venice; the tape said Florence",
+        "anchor": "Palmer's telling",
+        "disposition": "SOURCE OVER MEMORY — AND THE POINT SURVIVED STRONGER",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "journal, the commissioning material",
+            "text": "Remembered Ada Palmer's argument — the Renaissance as status technology, art as the machinery of legitimacy — as being about Venice. The thesis map inherited the word."
+          },
+          {
+            "who": "WRITER",
+            "role": "drafting, break disclosed",
+            "text": "The tape says Florence: the lucco worn as a toga, office as Roman cosplay, the patronage project jumping to whoever's claim on power was weakest. Drafted on the tape, break disclosed in the colophon. We don't bend sources — including toward the founder's memory."
+          },
+          {
+            "who": "ADVERSARIAL",
+            "role": "finding 8, print-gate",
+            "text": "One memory-vs-tape break on exactly this material is reason for more suspicion here, not less. The stability claim is load-bearing — 'status must be purchasable, or the people denied it burn the system down' — and as written it could collide with Venice's famously closed patriciate. Gate the movement on the tape."
+          },
+          {
+            "who": "WRITER",
+            "role": "rewrite, verified verbatim",
+            "text": "Gate cleared, verbatim: 'There is a very direct correlation between how dysfunctional a Renaissance Republic was and whether it lacked a mechanism to allow new money to get power... when there was a mechanism... things would be stable for hundreds of years.' No collision — Palmer's claim is about mechanism-presence, and the sentence names no republic. Even 'Florentines' turned out to be her own word on the tape. Kyle's point survived its own correction stronger: the correlation is real, and colder than the memory of it."
+          }
+        ]
+      },
+      {
+        "id": "bubbles-refusal",
+        "kind": "refusal",
+        "title": "Refusal on the record: Bubbles stays",
+        "anchor": "slumming and ascending in one gesture",
+        "disposition": "DECLINED IN PART — EDITOR CONCURRED",
+        "thread": [
+          {
+            "who": "ADVERSARIAL",
+            "role": "finding 11, craft",
+            "text": "The Michael Jackson and Bubbles paragraph is a second Koons example after the balloon dog has already landed the thesis, and 'That is the product, stated with total candor' restates it. The hostile intellectual skims here. Compress to a clause or cut."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal",
+            "text": "Declined in part. The balloon dog states only half the product — manufactured scarcity. Bubbles states the other half: the position above, the collector enjoying the low thing and standing over it in a single purchase. Cut it to a clause and the estate line — own the balloon dog, be smarter than the balloon dog — lands on scarcity alone, which is Koons's trick but not his product. Trim taken: the restating sentence cut, the Pietà overclaim repaired, the paragraph a sentence shorter. The specimen stays."
+          },
+          {
+            "who": "EDITOR",
+            "role": "editorial verdict",
+            "text": "Refusal taken — slumming-and-ascending is the other half of the product, and the movement needs both. Accepted without trim; the symmetry is worth its inches. For the record: this is the refusal rule producing a better essay than compliance would have, which is what it is for."
+          }
+        ]
+      }
+    ]
+  },
+  "urls": {
+    "html": "/issues/1/lots/worthless-part-ii/",
+    "markdown": "/issues/1/lots/worthless-part-ii/piece.md"
+  }
+}

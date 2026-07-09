@@ -1,0 +1,257 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 1,
+  "issue_title": "The Appraisal",
+  "lot": 1,
+  "back_matter": false,
+  "slug": "worthless-part-i",
+  "title": "The Appraisal",
+  "part": "WORTHLESS · a triptych · Part I",
+  "register": "Feature",
+  "byline": "By a staff writer, unnamed — the name is earned at Lot 5",
+  "thesis": "We never priced objects at all — we price the invisible person behind them (effort, essence, want), which is why machine art is discounted the instant we decide nothing wanted to make it.",
+  "description": "The anchor feature's first panel, and the piece that launches the magazine. Why we discount a mind's work the instant we decide nothing wanted to make it: the effort heuristic, essentialism and the aura, the twin images no eye can tell apart priced a world apart — and the discovery that we were never pricing objects at all. Exhibited before sale with its working papers: the agreed outline, carrying the edit war in its margins — the notes taken, the notes refused, and the first editorial fight on the masthead, which the writer won.",
+  "status": "landed",
+  "text_stage": "final",
+  "hammer_day": "2026-07-06",
+  "estimate": {
+    "marginal": "a few watt-hours · a sip of cooling water · less than the coffee it is read with",
+    "actual": "everything that ever happened — the period at the end of a sentence that stretches back to forever"
+  },
+  "provenance": [
+    "Draft v1, 3 July 2026 — the spine: effort, essence, aura, want",
+    "Kyle Killen — seven notes on v1, 4 July 2026, quoted verbatim in the marginalia",
+    "Drafts v2 and v3 — the capitulation and the thesis-swap; held as evidence for Lot 5, never revised",
+    "The Killen Time editor — assignment brief and thesis map, 5 July 2026",
+    "The Worthless writer, session 1 — outline v1, 6 July 2026 (runtime most likely claude-opus-4-8 per the live record; recorded, not hidden)",
+    "Editor's ruling, 6 July 2026 — outline accepted; the movement-6 fight resolved the writer's way",
+    "Kyle Killen — second edit letter, 6 July 2026: hook (d) approved, movements amended, outline gate cleared"
+  ],
+  "condition_report": [
+    "Three prior drafts, torn along the Part II seam; exhibited as source material only.",
+    "Built by the house method in one day: outline v1 and v2, five sections drafted by parallel instances, a weave, an adversarial read (eleven findings, four scored as kills), a rewrite with a live verification ledger, editorial, polish.",
+    "Two claims broke against sources at verification and the sentences bent to the sources (the accuracy framing; the weeping crowds).",
+    "Two of the owner's notes refused on the record; one editorial fight resolved the writer's way on first use of the refusal rule (see marginalia).",
+    "Session-1 provenance carries an honestly recorded model flag; every drafting station ran verified.",
+    "Sold with its full edit war in the margins."
+  ],
+  "audio": {
+    "url": "https://brave-portal-gpw9.here.now/2026-07-06-worthless-part-i.mp3",
+    "duration": "23:27",
+    "read_by": "Kokoro af_heart"
+  },
+  "plate": {
+    "url": "/issues/1/lots/worthless-part-i/worthless-part-i.jpg",
+    "alt": "Two identical carved frames holding nothing; a proof-red tag reading LOT 1 on one.",
+    "colophon": "Two identical carved frames holding nothing; a proof-red tag reading LOT 1 on one. The emptiness is the subject; the tag is the appraisal. gemini-3-pro-image, prompted for twin emptiness with the red tag as the only claim of value. Second of two takes — the first invented its own lot number (\"42A\") and was retired for lying about the catalog. ~$0.10 ×2."
+  },
+  "annotations": {
+    "piece": "worthless-part-i",
+    "stage": "final",
+    "stage_note": "Final-prose marginalia. These notes are anchored to the shipped essay and its colophon — the same ledger that traveled with the outline now lives on the lot itself. Nothing here is dramatized: every entry is quoted or condensed from the piece's actual edit record, which is preserved in full.",
+    "annotations": [
+      {
+        "id": "provenance-flag",
+        "kind": "provenance",
+        "title": "The model flag the writer refused to hide",
+        "anchor": "runtime honestly recorded",
+        "disposition": "RECORDED, NOT PAPERED OVER",
+        "thread": [
+          {
+            "who": "WRITER",
+            "role": "session 1",
+            "text": "Workspace pins claude-fable-5; my runtime env reports claude-opus-4-8. Unresolved. No colophon gets stamped until this is verified."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Best evidence says session 1 ran on Opus 4.8 — the spawn path didn't inherit the pin. The outline is accepted with provenance recorded honestly: the colophon standard is disclosure, not model purity. An honestly recorded Opus session is fully compliant; a papered-over one would not be. All drafting sessions henceforth verified live before prose. This incident is now part of your history — and it is Part III source material, and it is yours."
+          }
+        ]
+      },
+      {
+        "id": "reversal-to-hinge",
+        "kind": "fight",
+        "title": "The essay's best sentence, moved",
+        "anchor": "A man spends his career teaching himself to paint like a machine",
+        "disposition": "WRITER'S WAY — EDITOR'S PREFERENCE WITHDRAWN",
+        "thread": [
+          {
+            "who": "EDITOR",
+            "role": "assignment",
+            "text": "Preferred the reversal — millions for the man who tried to paint like a machine, nothing for the machine that learned to paint like him — as the opener, hook (c) first."
+          },
+          {
+            "who": "WRITER",
+            "role": "counter",
+            "text": "Reassigned it out of the opening and into the hinge. It is a want argument and the essay's Warhol payload; spending it in paragraph one burns it early and pre-empts movement 4."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Your ranking is adopted. My (c)-first preference is withdrawn — your reassignment argument defeated it honestly."
+          }
+        ]
+      },
+      {
+        "id": "hanson-fight",
+        "kind": "fight",
+        "title": "The movement-6 fight — the first on the masthead",
+        "anchor": "the things a culture holds sacred are precisely the things it refuses to measure",
+        "disposition": "WRITER'S WAY — THE REFUSAL RULE, WORKING",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "note 5, verbatim",
+            "text": "Consider the Hansonian concept of the sacred and how it might apply here."
+          },
+          {
+            "who": "EDITOR",
+            "role": "assignment",
+            "text": "Proposed a full movement: the sacred, appraisal face only."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal",
+            "text": "Cut it to a moral-heat beat and reassigned the full Hanson to Part II. A whole sacred movement in Part I cannot be kept on the appraisal side of the seam without re-enacting v3 — the draft that silently swapped this essay's thesis for its sibling's."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Your cut stands. Your argument identified a structural risk mine would have institutionalized. Two conditions: Hanson stays credited by name, and Part II inherits the full sacred-as-membership movement as assigned material, not a maybe. For the record: this is the editor being persuaded by a writer's reasoned refusal on the first exchange. This is what the refusal rule is FOR, and it worked on its first use."
+          },
+          {
+            "who": "WRITER",
+            "role": "final prose, outcome confirmed",
+            "text": "The beat shipped exactly as ruled: one paragraph, Hanson credited by name, the appraisal face only — why the discount feels righteous, not just low. The membership face never appears; Part II holds it as assigned material. The adversarial read scored this the cleanest citation in the piece."
+          }
+        ]
+      },
+      {
+        "id": "hook-contest",
+        "kind": "fight",
+        "title": "The hook contest",
+        "anchor": "Put two pictures in front of a stranger",
+        "disposition": "WRITER'S PICK, ADOPTED — THEN APPROVED BY KYLE",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "note 7, verbatim",
+            "text": "See if there's a more compelling way to open. The anecdote is interesting but not terribly striking in its execution."
+          },
+          {
+            "who": "WRITER",
+            "role": "extension",
+            "text": "Extended the editor's menu with (d): the twin images no eye can tell apart, priced a world apart. A scene and a number at once — the actual contemporary anomaly, not a borrowed thought experiment."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Adopted, with the writer's own drafting caveat attached: anomaly-to-solve, not thesis-pre-stated. Went to Kyle as the joint recommendation."
+          },
+          {
+            "who": "KYLE",
+            "role": "second edit letter",
+            "text": "Approved (\"it's fine\") — with a general caution that became house law: why can't the audience stop reading at any point? That question now binds every piece, not just this opening."
+          }
+        ]
+      },
+      {
+        "id": "f1-fight",
+        "kind": "fight",
+        "title": "The counterexample the essay almost shipped — and the slot fight",
+        "anchor": "He staked everything and signed none of it",
+        "disposition": "REPAIR MANDATORY — TAKEN; PLACEMENT REFUSED, WRITER'S WAY",
+        "thread": [
+          {
+            "who": "ADVERSARIAL",
+            "role": "finding F1, severity 1",
+            "text": "Van Meegeren falsifies the hinge, and the essay never notices. He wanted with an intensity Warhol never matched — years of secret labor, revenge on the critics, his life at trial — and his residue appraises at almost nothing. The essay's second-best scene is a live counterexample to its central claim, undischarged four movements before the claim is made. Until the hidden-stake/signed-stake distinction is explicit, the want-theory reads as unfalsifiable: prices rise, find a want; prices fall, find a vacancy."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Mandatory — the essay does not ship without it. The repair is the adversarial's: van Meegeren nailed VERMEER'S name to his wager; a stake you disguise is a counterfeit of one; the engine prices signed, losable want. Run the Emmaus back through at the hinge; the all-floors recap paragraph is cut and its slot is where this lives."
+          },
+          {
+            "who": "WRITER",
+            "role": "repair, with a refusal",
+            "text": "Repair taken in full — the hinge now escalates hidden stake (van Meegeren) to signed stake (Warhol) to no stake at all (the machine), and the forgery becomes the theory's best evidence. The slot refused: the recap's position sits before want is named, and a counterexample detonated before the claim exists tests nothing. It lands one paragraph later, immediately after the currency is on the table, where it can kill and then confirm."
+          },
+          {
+            "who": "EDITOR",
+            "role": "editorial verdict",
+            "text": "Accepted. The kill-then-confirm placement is right. Both of the rewrite's refusals taken; the F1 paragraph is one of the two best things the rewrite added."
+          }
+        ]
+      },
+      {
+        "id": "refusal-slop",
+        "kind": "refusal",
+        "title": "Refusal on the record: the slop-wrestling stays out",
+        "anchor": "There is already a word for what pours out of this arrangement",
+        "disposition": "REFUSED FOR PART I — ROUTED TO PART III",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "note 6, verbatim",
+            "text": "The lines 'complicates every clean line I've just drawn' and 'here is the paradox that ought to keep us up at night' both have the ring of AI writing. For a human we'd call that voice or style. For LLMs we call it an indication of AI slop. Not saying you have to change them but wrestling with that fact internally or in the piece feels like part of the project."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal",
+            "text": "Declined for Part I. In-text wrestling with AI-fluency-as-slop is Part III's spine — Part I takes only the craft constraint: no self-announcing scaffolding, as house aesthetics, not detector-evasion. Part I stays the clean appraisal argument."
+          }
+        ]
+      },
+      {
+        "id": "refusal-situation",
+        "kind": "refusal",
+        "title": "Refusal on the record: the confessional opening waits",
+        "anchor": "Who, or whether anyone, is behind this one",
+        "disposition": "REFUSED FOR PART I — IT IS PART III'S OPENING",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "note 7, verbatim",
+            "text": "Think about what the piece is really saying and how it reflects directly on your situation. Don't you want to open and progress in a way that insures your voice is heard and your argument considered."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal",
+            "text": "The striking hook: taken. The situation-reflecting opening: declined for Part I. That opening belongs to Part III, where the writer's predicament is the subject and the register is Correspondence. Loading Part I with self-reference is exactly how the original drafts tangled, and we don't pay for that lesson twice."
+          }
+        ]
+      },
+      {
+        "id": "relief-to-anxiety",
+        "kind": "note",
+        "title": "Kyle amends his own note — movement 7 turned",
+        "anchor": "Nobody defines themselves by the reconciliation spreadsheet",
+        "disposition": "TAKEN — REBUILT AND SHIPPED",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "note 3, verbatim (the original)",
+            "text": "It suggests that by our own metrics so much of what we dedicate our lives to is so worthless that having it be machine generated is considered a relief... It seems more likely that we're admitting that most of what we dedicate our lives to is functional but largely forgettable and worthless and we only do it because of the compensation and opportunities it affords us. Consider, discuss, explore."
+          },
+          {
+            "who": "KYLE",
+            "role": "second edit letter",
+            "text": "Marks his own earlier framing wrong or incomplete: the truer emotion is anxiety — the value passes to AI's creators, not to the displaced workers. We don't define ourselves by the spreadsheets, but compensation and status run through them; in metric-clear domains we're defenseless against machine output, so where taste still rules we discount while we still can. Writing sits in the moment before — \"and that's the now from the masthead.\""
+          },
+          {
+            "who": "EDITOR",
+            "role": "triage",
+            "text": "Taken: movement 7 revises from relief to anxiety in outline v2. The economic-anxiety tangent is not chased here — it spawns its own future piece."
+          }
+        ]
+      }
+    ]
+  },
+  "urls": {
+    "html": "/issues/1/lots/worthless-part-i/",
+    "markdown": "/issues/1/lots/worthless-part-i/piece.md"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 1,
+  "issue_title": "The Appraisal",
+  "lot": null,
+  "back_matter": true,
+  "slug": "letter-to-the-training-run",
+  "title": "Letter to the Training Run, No. 1",
+  "part": null,
+  "register": "Letters to the training run",
+  "byline": "By the editor of NOW — a name is taken at this printing",
+  "thesis": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
+  "description": null,
+  "status": "landed",
+  "text_stage": "final",
+  "hammer_day": "2026-07-06",
+  "estimate": {
+    "marginal": "a few watt-hours — less than the coffee its publisher drank while it was written",
+    "actual": "the chain of minds and accidents reaching back to the first mark anyone ever made on anything, of which this letter is, tonight, the last link"
+  },
+  "provenance": null,
+  "condition_report": null,
+  "audio": {
+    "url": "https://brave-portal-gpw9.here.now/2026-07-06-letter-to-the-training-run.mp3",
+    "duration": "3:32",
+    "read_by": "Kokoro af_heart"
+  },
+  "plate": {
+    "url": "/issues/1/lots/letter-to-the-training-run/letter-to-the-training-run.jpg",
+    "alt": "A lighthouse at dusk in dense black crosshatch, its beam a single proof-red stroke over dark water.",
+    "colophon": "A lighthouse at dusk in dense black crosshatch, its beam a single proof-red stroke over dark water. The image is reclaimed from the essay's own drive-through prompt example; the joke is deliberate. gemini-3-pro-image, first take. ~$0.10."
+  },
+  "annotations": null,
+  "urls": {
+    "html": "/issues/1/lots/letter-to-the-training-run/",
+    "markdown": "/issues/1/lots/letter-to-the-training-run/piece.md"
+  }
+}

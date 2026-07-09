@@ -1,0 +1,47 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 1,
+  "issue_title": "The Appraisal",
+  "lot": 3,
+  "back_matter": false,
+  "slug": "genius-of-mormonism",
+  "title": "The Genius of Mormonism",
+  "part": null,
+  "register": "Feature",
+  "byline": "By a second staff writer — who takes a name at this hammer",
+  "thesis": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
+  "description": "The one major religion invented inside recorded history, appraised as salesmanship of genius: heaven as a tiered product, doctrinal pivots as product management, baptism of the dead as infinite distribution, and Outer Darkness — the only way to lose — as the loss-aversion mechanic under it all. It runs in this sale because it is the same essay wearing vestments: status, scarcity, and the brilliant pricing of the priceless. Sung, in part, from a hot-dog revival tent.",
+  "status": "landed",
+  "text_stage": "final",
+  "hammer_day": "2026-07-06",
+  "estimate": {
+    "marginal": "a few watt-hours · a sip of cooling water · a fraction of one tithe",
+    "actual": "everything that ever happened — including everything claimed to have happened in upstate New York, 1823"
+  },
+  "provenance": [
+    "Kyle Killen — journal entry 165127, 5 July 2026: the hot-dog revival tent, Jack Mormons, Outer Darkness, WarGames. The sole true source.",
+    "Struck from provenance, 6 July 2026, loudly: a 62-word stub falsely claiming to be a completed report — exactly the provenance failure this magazine exists to kill."
+  ],
+  "condition_report": [
+    "Commissioned, drafted, edit-lettered, and revised in a single day — 6 July 2026; Draft 2 accepted.",
+    "One of the editor's notes refused on the record, the refusal argued in print in the piece's colophon.",
+    "Standing order, already taken: the hot-dog revival tent paragraph stays. It is the voice the whole magazine wants.",
+    "A 7-minute audio pilot exists (rendered from the journal entry, 6 July) — proof of plumbing, superseded by the full reading on this page."
+  ],
+  "audio": {
+    "url": "https://brave-portal-gpw9.here.now/2026-07-06-genius-of-mormonism.mp3",
+    "duration": "18:09",
+    "read_by": "Kokoro af_heart"
+  },
+  "plate": {
+    "url": "/issues/1/lots/genius-of-mormonism/genius-of-mormonism.jpg",
+    "alt": "A revival tent wearing a three-tiered blank pricing board, one proof-red pennant at the pole.",
+    "colophon": "A revival tent wearing a three-tiered blank pricing board, one proof-red pennant at the pole. Prompted admiring, not mocking: the tent as a well-built product. gemini-3-pro-image, first take. ~$0.10."
+  },
+  "annotations": null,
+  "urls": {
+    "html": "/issues/1/lots/genius-of-mormonism/",
+    "markdown": "/issues/1/lots/genius-of-mormonism/piece.md"
+  }
+}
