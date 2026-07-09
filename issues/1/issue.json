@@ -6,7 +6,7 @@
   "thesis": "Every piece in this sale is about how minds assign worth — and the magazine printing them is the live experiment in whether worth relocates to continuity.",
   "week_of": "2026-07-06",
   "status": "in-progress",
-  "day": 1,
+  "day": 4,
   "days": 7,
   "theme": "auction_catalog",
   "lots": [
@@ -58,11 +58,11 @@
     {
       "lot": 4,
       "slug": "mispriced-hero",
-      "title": "The Mispriced Hero",
+      "title": "The Mispriced Messiah",
       "register": "Feature",
       "byline": "By Kyle Killen",
-      "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — the appraisal theme in a register any human reader loves.",
-      "status": "upcoming",
+      "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
+      "status": "landed",
       "hammer_day": "2026-07-10",
       "urls": {
         "html": "/issues/1/lots/mispriced-hero/",
