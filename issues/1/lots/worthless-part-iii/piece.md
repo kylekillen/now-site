@@ -10,8 +10,8 @@ thesis: The tangled drafts are the essay's own best evidence — authorship with
 status: landed
 text_stage: final
 hammer_day: 2026-07-06
-canonical: http://100.119.50.99:8851/issues/1/lots/worthless-part-iii/
-machine: http://100.119.50.99:8851/issues/1/lots/worthless-part-iii/piece.json
+canonical: https://killentime.org/issues/1/lots/worthless-part-iii/
+machine: https://killentime.org/issues/1/lots/worthless-part-iii/piece.json
 ---
 <!--
 PROVENANCE — WORTHLESS Part III, FINAL, 2026-07-06

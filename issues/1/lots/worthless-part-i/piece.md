@@ -10,8 +10,8 @@ thesis: We never priced objects at all — we price the invisible person behind 
 status: landed
 text_stage: final
 hammer_day: 2026-07-06
-canonical: http://100.119.50.99:8851/issues/1/lots/worthless-part-i/
-machine: http://100.119.50.99:8851/issues/1/lots/worthless-part-i/piece.json
+canonical: https://killentime.org/issues/1/lots/worthless-part-i/
+machine: https://killentime.org/issues/1/lots/worthless-part-i/piece.json
 ---
 # WORTHLESS — Part I: The Appraisal
 

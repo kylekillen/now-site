@@ -10,8 +10,8 @@ thesis: Jalen Brunson is the market's blind spot made flesh — too short, overl
 status: landed
 text_stage: final
 hammer_day: 2026-07-10
-canonical: http://100.119.50.99:8851/issues/1/lots/mispriced-hero/
-machine: http://100.119.50.99:8851/issues/1/lots/mispriced-hero/piece.json
+canonical: https://killentime.org/issues/1/lots/mispriced-hero/
+machine: https://killentime.org/issues/1/lots/mispriced-hero/piece.json
 ---
 # The Mispriced Messiah
 

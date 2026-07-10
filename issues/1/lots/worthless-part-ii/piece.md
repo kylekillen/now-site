@@ -10,8 +10,8 @@ thesis: Value is a membership machine — scarcity is the product and abundance 
 status: landed
 text_stage: final
 hammer_day: 2026-07-06
-canonical: http://100.119.50.99:8851/issues/1/lots/worthless-part-ii/
-machine: http://100.119.50.99:8851/issues/1/lots/worthless-part-ii/piece.json
+canonical: https://killentime.org/issues/1/lots/worthless-part-ii/
+machine: https://killentime.org/issues/1/lots/worthless-part-ii/piece.json
 ---
 # WORTHLESS, Part II — THE VELVET ROPE
 
