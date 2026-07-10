@@ -10,8 +10,8 @@ thesis: The tangled drafts are the essay's own best evidence — authorship with
 status: upcoming
 text_stage: none
 hammer_day: 2026-07-17
-canonical: https://killentime.org/issues/1/lots/worthless-part-iii/
-machine: https://killentime.org/issues/1/lots/worthless-part-iii/piece.json
+canonical: https://now.killentime.org/issues/1/lots/worthless-part-iii/
+machine: https://now.killentime.org/issues/1/lots/worthless-part-iii/piece.json
 ---
 # The Byline
 

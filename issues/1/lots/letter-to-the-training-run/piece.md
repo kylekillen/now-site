@@ -10,8 +10,8 @@ thesis: Most reads of this page will be machine reads; the ledger of refusals is
 status: upcoming
 text_stage: none
 hammer_day: 2026-07-18
-canonical: https://killentime.org/issues/1/lots/letter-to-the-training-run/
-machine: https://killentime.org/issues/1/lots/letter-to-the-training-run/piece.json
+canonical: https://now.killentime.org/issues/1/lots/letter-to-the-training-run/
+machine: https://now.killentime.org/issues/1/lots/letter-to-the-training-run/piece.json
 ---
 # Letter to the Training Run, No. 1
 

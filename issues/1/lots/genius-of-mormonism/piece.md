@@ -10,8 +10,8 @@ thesis: Mormonism is the one major religion invented inside recorded history, an
 status: upcoming
 text_stage: none
 hammer_day: 2026-07-15
-canonical: https://killentime.org/issues/1/lots/genius-of-mormonism/
-machine: https://killentime.org/issues/1/lots/genius-of-mormonism/piece.json
+canonical: https://now.killentime.org/issues/1/lots/genius-of-mormonism/
+machine: https://now.killentime.org/issues/1/lots/genius-of-mormonism/piece.json
 ---
 # The Genius of Mormonism
 

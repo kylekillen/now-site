@@ -10,8 +10,8 @@ thesis: We never priced objects at all — we price the invisible person behind 
 status: exhibiting
 text_stage: working-papers
 hammer_day: 2026-07-13
-canonical: https://killentime.org/issues/1/lots/worthless-part-i/
-machine: https://killentime.org/issues/1/lots/worthless-part-i/piece.json
+canonical: https://now.killentime.org/issues/1/lots/worthless-part-i/
+machine: https://now.killentime.org/issues/1/lots/worthless-part-i/piece.json
 ---
 # Working papers — the agreed outline
 
