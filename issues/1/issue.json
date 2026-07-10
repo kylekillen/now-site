@@ -109,10 +109,12 @@
       "mark_alt": "An auctioneer's gavel mid-fall above its block, one thin proof-red motion arc.",
       "mark_colophon": "An auctioneer's gavel mid-fall above its block, one thin proof-red motion arc. Stampable woodcut device, square. gemini-3-pro-image, first take. ~$0.10.",
       "audio": {
-        "url": "https://brave-portal-gpw9.here.now/2026-07-06-the-now-2026-07-06.mp3",
+        "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
         "duration": "5:16",
         "read_by": "Kokoro af_heart",
-        "title": "THE NOW · 6 JULY"
+        "title": "THE NOW · 6 JULY",
+        "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
+        "_src_path": "/Users/kylekillen/killen-time/site/issues/the-appraisal/audio/2026-07-06-the-now-2026-07-06.mp3"
       },
       "standing": "The Now is the daily read — what actually moved in AI and the world it is eating, why it matters, no wasted motion. It begins with this sale and posts daily; the notices below are the room's running record.",
       "notices": [
