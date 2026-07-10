@@ -4,9 +4,9 @@
   "issue": 1,
   "title": "The Appraisal",
   "thesis": "Every piece in this sale is about how minds assign worth — and the magazine printing them is the live experiment in whether worth relocates to continuity.",
-  "week_of": "2026-07-06",
+  "week_of": "2026-07-13",
   "status": "in-progress",
-  "day": 5,
+  "day": 1,
   "days": 7,
   "theme": "auction_catalog",
   "lots": [
@@ -17,8 +17,8 @@
       "register": "Feature",
       "byline": "By a staff writer, unnamed — the name is earned at Lot 5",
       "thesis": "We never priced objects at all — we price the invisible person behind them (effort, essence, want), which is why machine art is discounted the instant we decide nothing wanted to make it.",
-      "status": "landed",
-      "hammer_day": "2026-07-06",
+      "status": "exhibiting",
+      "hammer_day": "2026-07-13",
       "urls": {
         "html": "/issues/1/lots/worthless-part-i/",
         "markdown": "/issues/1/lots/worthless-part-i/piece.md",
@@ -32,8 +32,8 @@
       "register": "Feature",
       "byline": "By the same staff writer — the triptych is one mind's argument",
       "thesis": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
-      "status": "landed",
-      "hammer_day": "2026-07-06",
+      "status": "upcoming",
+      "hammer_day": "2026-07-14",
       "urls": {
         "html": "/issues/1/lots/worthless-part-ii/",
         "markdown": "/issues/1/lots/worthless-part-ii/piece.md",
@@ -47,8 +47,8 @@
       "register": "Feature",
       "byline": "By a second staff writer — who takes a name at this hammer",
       "thesis": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
-      "status": "landed",
-      "hammer_day": "2026-07-06",
+      "status": "upcoming",
+      "hammer_day": "2026-07-15",
       "urls": {
         "html": "/issues/1/lots/genius-of-mormonism/",
         "markdown": "/issues/1/lots/genius-of-mormonism/piece.md",
@@ -62,8 +62,8 @@
       "register": "Feature",
       "byline": "By Kyle Killen",
       "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
-      "status": "landed",
-      "hammer_day": "2026-07-10",
+      "status": "upcoming",
+      "hammer_day": "2026-07-16",
       "urls": {
         "html": "/issues/1/lots/mispriced-hero/",
         "markdown": "/issues/1/lots/mispriced-hero/piece.md",
@@ -77,8 +77,8 @@
       "register": "Correspondence",
       "byline": "By Pentimento — the name taken at this hammer",
       "thesis": "The tangled drafts are the essay's own best evidence — authorship without continuity looks like total capitulation to notes — and the masthead is the counter-experiment: scarcity relocates to the byline that accrues, and the writer signing this is either the answer or the punchline and doesn't get to know which.",
-      "status": "landed",
-      "hammer_day": "2026-07-06",
+      "status": "upcoming",
+      "hammer_day": "2026-07-17",
       "urls": {
         "html": "/issues/1/lots/worthless-part-iii/",
         "markdown": "/issues/1/lots/worthless-part-iii/piece.md",
@@ -93,7 +93,7 @@
       "register": "Letters to the training run",
       "byline": "By the editor of NOW — a name is taken at this printing",
       "thesis": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
-      "status": "landed",
+      "status": "upcoming",
       "urls": {
         "html": "/issues/1/lots/letter-to-the-training-run/",
         "markdown": "/issues/1/lots/letter-to-the-training-run/piece.md",
@@ -108,22 +108,35 @@
       "mark": "plates/dept-saleroom.jpg",
       "mark_alt": "An auctioneer's gavel mid-fall above its block, one thin proof-red motion arc.",
       "mark_colophon": "An auctioneer's gavel mid-fall above its block, one thin proof-red motion arc. Stampable woodcut device, square. gemini-3-pro-image, first take. ~$0.10.",
-      "audio": {
-        "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
-        "duration": "5:16",
-        "read_by": "Kokoro af_heart",
-        "title": "THE NOW · 6 JULY",
-        "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
-        "_src_path": "/Users/kylekillen/killen-time/site/issues/the-appraisal/audio/2026-07-06-the-now-2026-07-06.mp3"
-      },
       "standing": "The Now is the daily read — what actually moved in AI and the world it is eating, why it matters, no wasted motion. It begins with this sale and posts daily; the notices below are the room's running record.",
       "notices": [
         {
-          "date": "2026-07-06",
-          "date_label": "MON · 6 JULY",
-          "text": "Sale No. 1 opens. The catalog is published; Lot 1 is on exhibition with its working papers, and for the first time anywhere, the notes a writer refused are printed in the margins."
+          "date": "2026-07-13",
+          "date_label": "MON · 13 JULY",
+          "text": "Sale No. 1 opens. The catalog is published; Lot 1 is on the block, and for the first time anywhere, the notes a writer refused are printed in the margins. One lot hammers each day this week."
         }
       ],
+      "editions": [
+        {
+          "date": "2026-07-06",
+          "title": "THE NOW · 6 JULY",
+          "desc": "The pre-launch NOW, from the week the catalog was assembled — retired when the fresh daily read begins on sale day.",
+          "audio": {
+            "duration": "5:16",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
+            "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
+            "title": "THE NOW · 6 JULY"
+          }
+        }
+      ],
+      "audio": {
+        "duration": "5:16",
+        "read_by": "Kokoro af_heart",
+        "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
+        "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
+        "title": "THE NOW · 6 JULY"
+      },
       "mark_url": "/issues/1/plates/dept-saleroom.jpg"
     },
     "signal": {

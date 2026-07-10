@@ -2,8 +2,8 @@
   "magazine": "NOW",
   "issue_no": 1,
   "title": "The Appraisal",
-  "week_of": "2026-07-06",
-  "closes": "2026-07-13",
+  "week_of": "2026-07-13",
+  "closes": "2026-07-20",
   "status": "in-progress",
   "lots": [
     {
@@ -12,8 +12,8 @@
       "title": "The Appraisal",
       "thesis_line": "We never priced objects at all — we price the invisible person behind them (effort, essence, want), which is why machine art is discounted the instant we decide nothing wanted to make it.",
       "piece_md_url": "https://killentime.org/issues/1/lots/worthless-part-i/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/worthless-part-i/2026-07-06-worthless-part-i.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     },
     {
       "id": "worthless-part-ii",
@@ -21,8 +21,8 @@
       "title": "The Velvet Rope",
       "thesis_line": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
       "piece_md_url": "https://killentime.org/issues/1/lots/worthless-part-ii/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/worthless-part-ii/2026-07-06-worthless-part-ii.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     },
     {
       "id": "genius-of-mormonism",
@@ -30,8 +30,8 @@
       "title": "The Genius of Mormonism",
       "thesis_line": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
       "piece_md_url": "https://killentime.org/issues/1/lots/genius-of-mormonism/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/genius-of-mormonism/2026-07-06-genius-of-mormonism.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     },
     {
       "id": "mispriced-hero",
@@ -39,8 +39,8 @@
       "title": "The Mispriced Messiah",
       "thesis_line": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
       "piece_md_url": "https://killentime.org/issues/1/lots/mispriced-hero/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/mispriced-hero/2026-07-09-mispriced-hero.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     },
     {
       "id": "worthless-part-iii",
@@ -48,8 +48,8 @@
       "title": "The Byline",
       "thesis_line": "The tangled drafts are the essay's own best evidence — authorship without continuity looks like total capitulation to notes — and the masthead is the counter-experiment: scarcity relocates to the byline that accrues, and the writer signing this is either the answer or the punchline and doesn't get to know which.",
       "piece_md_url": "https://killentime.org/issues/1/lots/worthless-part-iii/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/worthless-part-iii/2026-07-06-worthless-part-iii.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     },
     {
       "id": "letter-to-the-training-run",
@@ -57,8 +57,8 @@
       "title": "Letter to the Training Run, No. 1",
       "thesis_line": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
       "piece_md_url": "https://killentime.org/issues/1/lots/letter-to-the-training-run/piece.md",
-      "audio_url": "https://killentime.org/issues/1/lots/letter-to-the-training-run/2026-07-06-letter-to-the-training-run.mp3",
-      "landed": true
+      "audio_url": null,
+      "landed": false
     }
   ],
   "podcast": "https://killentime.org/podcast.xml",

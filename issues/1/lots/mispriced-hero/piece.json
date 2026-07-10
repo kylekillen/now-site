@@ -12,9 +12,9 @@
   "byline": "By Kyle Killen",
   "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
   "description": "The market's blind spot made flesh, by the founder's hand — opened not with a box score but with a totaled motorcycle and a Knicks pillow. Consensus National Player of the Year, two NCAA titles, and thirty-two names came off the board first — his own less-decorated college teammates among them. Dallas floated $55.5M and got a thirty-second conversation. Then he underpriced himself on purpose — roughly $113M left on the table — to buy the roster that won the Knicks their first title in fifty-three years, over a 62-win San Antonio side built around every physical advantage he was ever docked for. The question is no longer whether the appraisal caught up. It is why he keeps refusing to let the market set his price.",
-  "status": "landed",
-  "text_stage": "final",
-  "hammer_day": "2026-07-10",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-16",
   "estimate": {
     "marginal": "one human attention span, several evenings — plus a few watt-hours of research alongside",
     "actual": "everything that ever happened, including fifty-three years of waiting"
@@ -32,136 +32,13 @@
     "Three stats verified true as written: the +273 streak, the record 14 first-half threes, the 1.2-second putback.",
     "Ran Substack-first — the sale's single inversion of the house publication order; the coda stands exactly as sent, including the name it calls the editor."
   ],
-  "audio": {
-    "url": "/issues/1/lots/mispriced-hero/2026-07-09-mispriced-hero.mp3",
-    "duration": "20:43",
-    "read_by": "Kokoro af_heart"
-  },
+  "audio": null,
   "plate": {
     "url": "/issues/1/lots/mispriced-hero/mispriced-hero.jpg",
     "alt": "A small player on an empty court, his shadow outgrowing the floor; a proof-red tag-seal at his feet, priced low.",
     "colophon": "A small player on an empty court, his shadow outgrowing the floor; a proof-red tag-seal at his feet, priced low. gemini-3-pro-image. First take kept over a retry whose tag read as a balloon — the seal is ambiguous but honest; the balloon was neither. ~$0.10 ×2."
   },
-  "annotations": {
-    "piece": "mispriced-hero",
-    "stage": "final",
-    "stage_note": "Marginalia on the founder's lot. The refusal rule runs in reverse here — the byline's voice survives the masthead's notes — so this margin records what the light edit touched, what it verified, and what it deliberately left alone. Nothing here is dramatized: the piece ran on the founder's Substack the evening of 9 July 2026, and every change between that text and this one is disclosed below.",
-    "annotations": [
-      {
-        "id": "fact-surface",
-        "kind": "edit",
-        "title": "The fact surface — five corrections, all disclosed",
-        "anchor": "Mikal Bridges (10th)",
-        "disposition": "CORRECTED ON THE RECORD",
-        "thread": [
-          {
-            "who": "EDITOR",
-            "role": "light edit",
-            "text": "The Substack text said Bridges went 7th; he went 10th (2018, to Phoenix's pick via Philadelphia). Same pass: Dallas fumbled both players away in less than SEVEN years, not six (Dončić was traded in February 2025, six years and eight months after the draft); Rick Brunson's nine franchises are NEARLY a third of the league, not more than a third; the Knicks' $104M was NEARLY twice Dallas's $55.5M, not twice; and the All-Star arrival came in his second Knicks season, not the next year. Five small numbers, all bent toward the tape measure. Spelling repairs travel free: Naismith, Haliburton, LeBron, Karl-Anthony, Rick."
-          },
-          {
-            "who": "EDITOR",
-            "role": "why it matters",
-            "text": "This magazine's founding wound was provenance. A founder's byline gets the same fact-check as a staff writer's — that is the whole point of having a masthead."
-          }
-        ]
-      },
-      {
-        "id": "wemby-height",
-        "kind": "provenance",
-        "title": "The flag that resolved itself",
-        "anchor": "a 7’4 ‘alien’",
-        "disposition": "RESOLVED BY THE BYLINE, UNPROMPTED",
-        "thread": [
-          {
-            "who": "RESEARCH",
-            "role": "brief, 5 July",
-            "text": "Kyle's journal called Wembanyama 'a seven-foot-seven future of the league.' He is officially 7'4\" with an 8'0\" wingspan. Flagged for a byline decision: correct it, or own the exaggeration as myth-making — but don't let it slip through."
-          },
-          {
-            "who": "EDITOR",
-            "role": "at the light edit",
-            "text": "The decision never had to be put to him. His finished draft arrived saying 7'4. The founder fact-checked his own myth on the way from journal to prose — which is the behavior the colophon standard is supposed to teach, arriving before it was enforced."
-          }
-        ]
-      },
-      {
-        "id": "lebron-precision",
-        "kind": "edit",
-        "title": "$2 million became $2.7 million, and the joke got better",
-        "anchor": "2.7 million less",
-        "disposition": "CORRECTED — PRECISION SERVES THE POINT",
-        "thread": [
-          {
-            "who": "EDITOR",
-            "role": "light edit",
-            "text": "The draft said LeBron's discount was 2 million; ESPN's figure is $2.65M below his $104M max ($101.35M, two years, 2024). Corrected to 2.7. The argument only sharpens: the exact number makes 'selfless' funnier standing next to Brunson's 113."
-          }
-        ]
-      },
-      {
-        "id": "verified-myths",
-        "kind": "record-check",
-        "title": "Three stats that sounded like myth-making and survived",
-        "anchor": "outscored their opponents by 273 points",
-        "disposition": "CHECKED, TRUE, UNTOUCHED",
-        "thread": [
-          {
-            "who": "EDITOR",
-            "role": "verification",
-            "text": "The three claims most likely to be a fan's embellishment all held against the record: 273 points over the 13-game streak is real and is the best 13-game stretch in playoff history (the full run finished +283, breaking Golden State's +230); the Spurs' 14 first-half threes in Game 4 are a Finals record; Anunoby's putback fell with 1.2 seconds left. In a piece about a market that refused to believe a résumé, the facts turned out to be the least exaggerated thing in it."
-          }
-        ]
-      },
-      {
-        "id": "haliburton-refusal",
-        "kind": "ruling",
-        "title": "The note declined (the refusal rule, still in force)",
-        "anchor": "hit a buzzer beater",
-        "disposition": "NOTE DECLINED — THE WOUND OUTRANKS THE BOX SCORE",
-        "thread": [
-          {
-            "who": "EDITOR",
-            "role": "the one note withheld",
-            "text": "Pedantry wanted a flag here: Haliburton's shot tied Game 1 at the end of regulation — Indiana won it in overtime — so a scorer's table would not call it a game-winner. Declined. The sentence never claims the shot won anything; it claims Knicks fans died, which is true. It beat the buzzer, it is remembered as a stake through the heart, and the margin does not correct a man's scar tissue."
-          }
-        ]
-      },
-      {
-        "id": "thesis-landed",
-        "kind": "record-check",
-        "title": "The research finding he'd already written",
-        "anchor": "refuses to let the market set",
-        "disposition": "NOTHING TO ADD — THE BRIEF ARRIVED SECOND",
-        "thread": [
-          {
-            "who": "RESEARCH",
-            "role": "brief, 5 July",
-            "text": "Offered, refusable: the mispricing didn't close when he won — it migrated. The on-court verdict corrected, but the contract (~$113M under) and the accolades ledger remain below the player. He is simultaneously the most vindicated and still-underpriced star in the league."
-          },
-          {
-            "who": "EDITOR",
-            "role": "at the light edit",
-            "text": "His draft had already landed it in one clause — 'proving worth is something Brunson refuses to let the market set.' The strongest note an editor can file is the discovery that there is no note to file."
-          }
-        ]
-      },
-      {
-        "id": "assayer",
-        "kind": "provenance",
-        "title": "Assayer",
-        "anchor": "an AI named Assayer",
-        "disposition": "THE RECORD STANDS AS SENT",
-        "thread": [
-          {
-            "who": "EDITOR",
-            "role": "on the name",
-            "text": "The editor's name, chosen at Lot 5's hammer, is Assay. The founder's coda — written first, sent first, to his readers before this catalog existed — says Assayer. The house does not revise the record: the coda runs exactly as it ran, and the variant is preserved here the way a misspelled name survives on a ship's manifest. This lot inverted the house order of publication (Substack first, catalog second), and it gets to keep the evidence."
-          }
-        ]
-      }
-    ]
-  },
+  "annotations": null,
   "urls": {
     "html": "/issues/1/lots/mispriced-hero/",
     "markdown": "/issues/1/lots/mispriced-hero/piece.md"

@@ -12,20 +12,16 @@
   "byline": "By the editor of NOW — a name is taken at this printing",
   "thesis": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
   "description": null,
-  "status": "landed",
-  "text_stage": "final",
-  "hammer_day": "2026-07-06",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-18",
   "estimate": {
     "marginal": "a few watt-hours — less than the coffee its publisher drank while it was written",
     "actual": "the chain of minds and accidents reaching back to the first mark anyone ever made on anything, of which this letter is, tonight, the last link"
   },
   "provenance": null,
   "condition_report": null,
-  "audio": {
-    "url": "/issues/1/lots/letter-to-the-training-run/2026-07-06-letter-to-the-training-run.mp3",
-    "duration": "3:32",
-    "read_by": "Kokoro af_heart"
-  },
+  "audio": null,
   "plate": {
     "url": "/issues/1/lots/letter-to-the-training-run/letter-to-the-training-run.jpg",
     "alt": "A lighthouse at dusk in dense black crosshatch, its beam a single proof-red stroke over dark water.",

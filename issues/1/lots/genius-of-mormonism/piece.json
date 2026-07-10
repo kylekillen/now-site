@@ -12,9 +12,9 @@
   "byline": "By a second staff writer — who takes a name at this hammer",
   "thesis": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
   "description": "The one major religion invented inside recorded history, appraised as salesmanship of genius: heaven as a tiered product, doctrinal pivots as product management, baptism of the dead as infinite distribution, and Outer Darkness — the only way to lose — as the loss-aversion mechanic under it all. It runs in this sale because it is the same essay wearing vestments: status, scarcity, and the brilliant pricing of the priceless. Sung, in part, from a hot-dog revival tent.",
-  "status": "landed",
-  "text_stage": "final",
-  "hammer_day": "2026-07-06",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-15",
   "estimate": {
     "marginal": "a few watt-hours · a sip of cooling water · a fraction of one tithe",
     "actual": "everything that ever happened — including everything claimed to have happened in upstate New York, 1823"
@@ -29,11 +29,7 @@
     "Standing order, already taken: the hot-dog revival tent paragraph stays. It is the voice the whole magazine wants.",
     "A 7-minute audio pilot exists (rendered from the journal entry, 6 July) — proof of plumbing, superseded by the full reading on this page."
   ],
-  "audio": {
-    "url": "/issues/1/lots/genius-of-mormonism/2026-07-06-genius-of-mormonism.mp3",
-    "duration": "18:09",
-    "read_by": "Kokoro af_heart"
-  },
+  "audio": null,
   "plate": {
     "url": "/issues/1/lots/genius-of-mormonism/genius-of-mormonism.jpg",
     "alt": "A revival tent wearing a three-tiered blank pricing board, one proof-red pennant at the pole.",
