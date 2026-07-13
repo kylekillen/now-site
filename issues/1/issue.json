@@ -17,7 +17,7 @@
       "register": "Feature",
       "byline": "By a staff writer, unnamed — the name is earned at Lot 5",
       "thesis": "We never priced objects at all — we price the invisible person behind them (effort, essence, want), which is why machine art is discounted the instant we decide nothing wanted to make it.",
-      "status": "exhibiting",
+      "status": "landed",
       "hammer_day": "2026-07-13",
       "urls": {
         "html": "/issues/1/lots/worthless-part-i/",
@@ -118,24 +118,36 @@
       ],
       "editions": [
         {
+          "date": "2026-07-13",
+          "title": "THE NOW · 13 JULY — THE PREAMBLE",
+          "desc": "The first NOW of the week is a preamble, by house law set this week: the editor introduces the sale — what this magazine is, who its minds are and how they get their names, why this issue wears an auction catalog, and what hammers when. The daily read proper resumes Tuesday.",
+          "source": "pieces/the-now-2026-07-13.md",
+          "audio": {
+            "duration": "6:50",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-13-the-now-2026-07-13.mp3",
+            "url": "/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3",
+            "title": "THE NOW · 13 JULY — THE PREAMBLE"
+          }
+        },
+        {
           "date": "2026-07-06",
           "title": "THE NOW · 6 JULY",
           "desc": "The pre-launch NOW, from the week the catalog was assembled — retired when the fresh daily read begins on sale day.",
           "audio": {
             "duration": "5:16",
             "read_by": "Kokoro af_heart",
-            "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
-            "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
-            "title": "THE NOW · 6 JULY"
-          }
+            "src": "audio/2026-07-06-the-now-2026-07-06.mp3"
+          },
+          "retired": true
         }
       ],
       "audio": {
-        "duration": "5:16",
+        "duration": "6:50",
         "read_by": "Kokoro af_heart",
-        "src": "audio/2026-07-06-the-now-2026-07-06.mp3",
-        "url": "/issues/1/audio/2026-07-06-the-now-2026-07-06.mp3",
-        "title": "THE NOW · 6 JULY"
+        "src": "audio/2026-07-13-the-now-2026-07-13.mp3",
+        "url": "/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3",
+        "title": "THE NOW · 13 JULY — THE PREAMBLE"
       },
       "mark_url": "/issues/1/plates/dept-saleroom.jpg"
     },
