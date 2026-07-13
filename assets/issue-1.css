@@ -416,3 +416,9 @@ aside.mgn.kind-refusal .mgn-stamp{border-color:var(--red);color:var(--red)}
   letter-spacing:.1em;color:var(--ink-2)}
 .bid-law{display:block;margin-top:6px;font-family:var(--mono);font-size:10px;
   letter-spacing:.04em;color:var(--ink-ghost)}
+
+/* THE NOW leads the catalog (Kyle, launch day 07-13): first thing after the
+   masthead and the paddle. Band-constrained; rail now holds signal alone. */
+.now-band{max-width:72ch;margin:0 auto;padding:0 0 clamp(18px,2.5vw,28px)}
+.now-band .saleroom{border-top:2px solid var(--rule-strong)}
+.now-band .dept-mark{margin-top:24px}
