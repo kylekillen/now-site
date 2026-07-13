@@ -62,5 +62,11 @@
     }
   ],
   "podcast": "https://now.killentime.org/podcast.xml",
-  "standing_order": "https://now.killentime.org/standing-order/"
+  "standing_order": "https://now.killentime.org/standing-order/",
+  "now": {
+    "date": "2026-07-13",
+    "title": "THE NOW · 13 JULY — THE PREAMBLE",
+    "url": "https://now.killentime.org/now/2026-07-13/",
+    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3"
+  }
 }
