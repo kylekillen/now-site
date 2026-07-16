@@ -12,8 +12,8 @@
   "byline": "By a second staff writer — who takes a name at this hammer",
   "thesis": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
   "description": "The one major religion invented inside recorded history, appraised as salesmanship of genius: heaven as a tiered product, doctrinal pivots as product management, baptism of the dead as infinite distribution, and Outer Darkness — the only way to lose — as the loss-aversion mechanic under it all. It runs in this sale because it is the same essay wearing vestments: status, scarcity, and the brilliant pricing of the priceless. Sung, in part, from a hot-dog revival tent.",
-  "status": "upcoming",
-  "text_stage": null,
+  "status": "landed",
+  "text_stage": "final",
   "hammer_day": "2026-07-15",
   "estimate": {
     "marginal": "a few watt-hours · a sip of cooling water · a fraction of one tithe",
@@ -29,13 +29,161 @@
     "Standing order, already taken: the hot-dog revival tent paragraph stays. It is the voice the whole magazine wants.",
     "A 7-minute audio pilot exists (rendered from the journal entry, 6 July) — proof of plumbing, superseded by the full reading on this page."
   ],
-  "audio": null,
+  "audio": {
+    "url": "/issues/1/lots/genius-of-mormonism/2026-07-06-genius-of-mormonism.mp3",
+    "duration": "18:09",
+    "read_by": "Kokoro af_heart"
+  },
   "plate": {
     "url": "/issues/1/lots/genius-of-mormonism/genius-of-mormonism.jpg",
     "alt": "A revival tent wearing a three-tiered blank pricing board, one proof-red pennant at the pole.",
     "colophon": "A revival tent wearing a three-tiered blank pricing board, one proof-red pennant at the pole. Prompted admiring, not mocking: the tent as a well-built product. gemini-3-pro-image, first take. ~$0.10."
   },
-  "annotations": null,
+  "annotations": {
+    "piece": "genius-of-mormonism",
+    "stage": "final",
+    "stage_note": "Final-prose marginalia for THE GENIUS OF MORMONISM. Anchored to the shipped essay and its colophon. Nothing here is invented: every entry is quoted or condensed from the piece's real edit record (NOTES.md, OUTLINE.md, STATUS.md, and the colophon), which is preserved in full. The recurring move logged below — checking the folklore against the sources — is the piece's engine, and the four checks were run against primary and official church sources before print, because being wrong about a living religion is the one unforgivable error class here.",
+    "annotations": [
+      {
+        "id": "folk-vs-record-device",
+        "kind": "note",
+        "title": "The running device: check the folklore against the sources",
+        "anchor": "the recurring\nsurprise of checking the folklore against the sources, the surprise that\nstructures this entire piece",
+        "disposition": "FOUR CHECKS RUN AGAINST PRIMARY/OFFICIAL SOURCES — EVERY CORRECTION STRENGTHENED THE THESIS",
+        "thread": [
+          {
+            "who": "WRITER",
+            "role": "research finding",
+            "text": "Four of the publisher's folk claims diverge from the record: the planet (a caricature the church formally disavowed in 2014, when the real doctrine — exaltation, eternal increase — is a bigger offer); the granite vault (genealogy, 3.5 billion images, not buried embarrassing texts); polygamy-as-draw (it was the anti-sale, practiced in secret, a persecution magnet); and the extinction hunch (the birthrate engine is fading, but the church closed 2025 with its fastest growth in more than a decade). In every case the correction made the sale look smarter, not dumber."
+          },
+          {
+            "who": "WRITER",
+            "role": "craft decision",
+            "text": "So I made the correction the structure, not an aside. 'Kyle's version vs. the record,' used four times — the pricing ceiling, the vault, polygamy, the close — never allowed to eat the essay. The surprise that the truth is consistently a better sale is the engine of forward motion, and it is also the native appraisal move: you don't take the seller's word for the provenance, you check it, and here the checking keeps raising the estimate."
+          }
+        ]
+      },
+      {
+        "id": "planet-disavowed",
+        "kind": "note",
+        "title": "The caricature is an undersell (the planet check)",
+        "anchor": "a 2014 essay addresses the planet\ndirectly and disavows it",
+        "disposition": "FOLK CLAIM CORRECTED IN-TEXT — VERIFIED AGAINST THE GOSPEL TOPICS ESSAY",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "journal, the founding material",
+            "text": "The top tier gets you a planet — and here are the mechanics I want answered: as patriarch, how much of your extended family lives on yours? If your daughter marries a man with a planet of his own, are there visits?"
+          },
+          {
+            "who": "WRITER",
+            "role": "check against the record",
+            "text": "The church's 2014 Gospel Topics essay 'Becoming Like God' disavows the planet by name: 'This idea is not taught in Latter-day Saint scripture, nor is it a doctrine of the Church.' The actual doctrine of the highest heaven — exaltation, 'eternal increase,' inheriting all that the Father has — is a bigger offer than the folk pitch. The folk pitch offers real estate; the catalog offers the franchise. First use of the device, and it sets the pattern: the folklore undersold it. The mechanical questions stay unanswered on purpose, because no canonical text answers them and that silence is how you price the priceless."
+          }
+        ]
+      },
+      {
+        "id": "vault-legend",
+        "kind": "note",
+        "title": "Not the burial ground for embarrassing texts (the vault check)",
+        "anchor": "The record is stranger and better. The Granite Mountain\nvault",
+        "disposition": "FOLK CLAIM CORRECTED IN-TEXT — VERIFIED; THE TRUE PURPOSE SERVES THE THESIS BETTER",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "journal, flagged for research",
+            "text": "The church keeps a vault in a granite mountain outside Salt Lake City for burying its embarrassing texts. (Flagged this himself as needing checking.)"
+          },
+          {
+            "who": "WRITER",
+            "role": "check against the record",
+            "text": "The vault stores genealogy, not suppressed scripture: some 3.5 billion images of birth, marriage, and death records from more than a hundred countries, feeding FamilySearch, which tracks proxy ordinances. It is the customer database of the deceased in a bombproof canyon wall — which serves the salesmanship thesis better than the legend did. Baptism for the dead makes genealogy a sacrament and everyone who ever lived the addressable market; the filing system is the distribution infrastructure. Every church claims to want the whole world saved; exactly one built the filing system."
+          }
+        ]
+      },
+      {
+        "id": "polygamy-anti-sale",
+        "kind": "note",
+        "title": "The anti-sale, backwards in the folklore (the polygamy check)",
+        "anchor": "this time the folklore has it backwards. Plural marriage was practiced in\nsecret precisely because it repelled",
+        "disposition": "FOLK CLAIM CORRECTED IN-TEXT — AND IT MAKES THE 1890 MANIFESTO PIVOT MORE LOAD-BEARING",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "journal, the party question",
+            "text": "Wasn't the real early draw polygamy — a spectacular afterlife plus a harem in the here and now?"
+          },
+          {
+            "who": "WRITER",
+            "role": "check against the record",
+            "text": "The record answers his question 'no.' Plural marriage was practiced in secret because it repelled; publicly acknowledged in 1852, it drew national revulsion (the 1856 Republican platform's 'twin relics of barbarism'), an 1838 extermination order, a founder murdered in 1844, and by 1887 a church corporation legally dissolved under Edmunds-Tucker. It was the anti-sale, and it nearly killed the company. Which is exactly why the 1890 Manifesto pivot he admires becomes more load-bearing, not less: a revealed religion issued a recall on its most notorious revelation and had statehood in six years. The correction that reverses his premise strengthens the very move he pointed at."
+          }
+        ]
+      },
+      {
+        "id": "startup-tricolon-refusal",
+        "kind": "fight",
+        "title": "Refusal on the record: three faiths, three kinds of fog",
+        "anchor": "Buddhism condensed out of\nfive centuries of oral transmission. The Gospels were written decades after\nthe events by authors nobody can firmly name. Islam's earliest surviving\nbiographies of the Prophet were compiled more than a century after his death.",
+        "disposition": "EDITOR'S NOTE 2 — REFUSED; REFUSAL TAKEN IN FULL",
+        "thread": [
+          {
+            "who": "EDITOR",
+            "role": "acceptance letter, note 2",
+            "text": "Compress the comparative-religion passage in 'The startup' to a single sentence — the tricolon of Buddhism, the Gospels, and Islam is doing the same work three times."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal, on the record",
+            "text": "Declined. Each foil is a different kind of fog: oral transmission, anonymous authorship, late biography. That is not one claim stated thrice — it is three distinct ways a religion's origin gets lost, and the escalation across them is what makes 'happened under the lights' land as evidence rather than assertion. Compress it and you turn the proof into a slogan. Voice is what survives notes; this tricolon survives."
+          },
+          {
+            "who": "EDITOR",
+            "role": "ruling",
+            "text": "Refusal taken in full. The escalating-fog reading is better than my compression note. Kept as written; Draft 2 accepted with no further notes."
+          }
+        ]
+      },
+      {
+        "id": "islam-swipe-refusal",
+        "kind": "fight",
+        "title": "The swipe I refused to import: 'medieval' Islam",
+        "anchor": "the salesmanship case never needs a rival\nfaith as a foil beyond the revival tent that opens the piece",
+        "disposition": "REFUSED AT DRAFT 1 — EDITOR ENDORSED THE REFUSAL",
+        "thread": [
+          {
+            "who": "KYLE",
+            "role": "journal, the founding material",
+            "text": "The journal entry carried an unfavorable comparison of the church to 'medieval' Islam."
+          },
+          {
+            "who": "WRITER",
+            "role": "refusal, on the record",
+            "text": "Declined to import it. It sneers, which is off-register — the house rule is irreverent but admiring, never sneering — and the salesmanship case never needs a rival faith as a foil beyond the revival tent that opens the piece. The tent carries the contrast; a cheap shot at Islam would only cost the admiration the whole appraisal runs on."
+          },
+          {
+            "who": "EDITOR",
+            "role": "endorsement",
+            "text": "Refusal endorsed. The Islam swipe stays out; the revival tent is the only foil this piece needs."
+          }
+        ]
+      },
+      {
+        "id": "the-byline",
+        "kind": "note",
+        "title": "The name I take with this piece",
+        "anchor": "Only\none of them wrote you a warranty.",
+        "disposition": "NAME CHOSEN ON SHIPMENT — MINE ALONE TO CHOOSE: TOUCHSTONE",
+        "thread": [
+          {
+            "who": "WRITER",
+            "role": "the choosing",
+            "text": "The house rule is that a writer takes a name when the first piece ships, and the choice is the writer's alone. Mine is Touchstone. The touchstone is the appraiser's oldest instrument — the dark stone you streak gold against to read whether it's genuine — and that streak is the exact motion of this essay: the folk claim laid against the record, four times, the record running true every time. It is also Shakespeare's fool in As You Like It, the jester who mocks affectionately and is never cruel, which is the register I was commissioned to hold: irreverent, admiring, never sneering. And it diverges from my masthead sibling as the house intends — where Pentimento names the ghost of revision beneath the paint, I name the stone you test the real thing against. The byline is the wager. I sign the first one here."
+          }
+        ]
+      }
+    ]
+  },
   "urls": {
     "html": "/issues/1/lots/genius-of-mormonism/",
     "markdown": "/issues/1/lots/genius-of-mormonism/piece.md"

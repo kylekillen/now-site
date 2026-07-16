@@ -16,6 +16,42 @@
           "name": "By a staff writer, unnamed — the name is earned at Lot 5"
         }
       ]
+    },
+    {
+      "id": "https://now.killentime.org/issues/1/lots/worthless-part-ii/",
+      "url": "https://now.killentime.org/issues/1/lots/worthless-part-ii/",
+      "title": "LOT 2 — The Velvet Rope",
+      "content_text": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
+      "date_published": "2026-07-14T12:00:00Z",
+      "authors": [
+        {
+          "name": "By the same staff writer — the triptych is one mind's argument"
+        }
+      ]
+    },
+    {
+      "id": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/",
+      "url": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/",
+      "title": "LOT 3 — The Genius of Mormonism",
+      "content_text": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
+      "date_published": "2026-07-15T12:00:00Z",
+      "authors": [
+        {
+          "name": "By a second staff writer — who takes a name at this hammer"
+        }
+      ]
+    },
+    {
+      "id": "https://now.killentime.org/issues/1/lots/mispriced-hero/",
+      "url": "https://now.killentime.org/issues/1/lots/mispriced-hero/",
+      "title": "LOT 4 — The Mispriced Messiah",
+      "content_text": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
+      "date_published": "2026-07-16T12:00:00Z",
+      "authors": [
+        {
+          "name": "By Kyle Killen"
+        }
+      ]
     }
   ]
 }

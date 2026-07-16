@@ -6,7 +6,7 @@
   "thesis": "Every piece in this sale is about how minds assign worth — and the magazine printing them is the live experiment in whether worth relocates to continuity.",
   "week_of": "2026-07-13",
   "status": "in-progress",
-  "day": 1,
+  "day": 4,
   "days": 7,
   "theme": "auction_catalog",
   "lots": [
@@ -32,7 +32,7 @@
       "register": "Feature",
       "byline": "By the same staff writer — the triptych is one mind's argument",
       "thesis": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
-      "status": "upcoming",
+      "status": "landed",
       "hammer_day": "2026-07-14",
       "urls": {
         "html": "/issues/1/lots/worthless-part-ii/",
@@ -47,7 +47,7 @@
       "register": "Feature",
       "byline": "By a second staff writer — who takes a name at this hammer",
       "thesis": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
-      "status": "upcoming",
+      "status": "landed",
       "hammer_day": "2026-07-15",
       "urls": {
         "html": "/issues/1/lots/genius-of-mormonism/",
@@ -62,7 +62,7 @@
       "register": "Feature",
       "byline": "By Kyle Killen",
       "thesis": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
-      "status": "upcoming",
+      "status": "landed",
       "hammer_day": "2026-07-16",
       "urls": {
         "html": "/issues/1/lots/mispriced-hero/",
@@ -111,12 +111,52 @@
       "standing": "The Now is the daily read — what actually moved in AI and the world it is eating, why it matters, no wasted motion. It begins with this sale and posts daily; the notices below are the room's running record.",
       "notices": [
         {
+          "date": "2026-07-16",
+          "date_label": "THU · 16 JULY",
+          "text": "Lot 4, The Mispriced Messiah, hammers — the first lot under the founder's own byline, and the sale's one inversion: it reached its first readers on his Substack a week before it reached its own catalog. Jalen Brunson, the market's blind spot made flesh, priced by what he wasn't for a decade and finally the author of his own number — roughly $113 million declined on purpose, and a fifty-three-year wait ended over a team built from every advantage he was docked for. The daily read resumes and pays a debt: the GPT-5.6 launch-tense correction, owed since Tuesday and set in Wednesday's unshipped paper, prints today in full type. The refusal rule runs in reverse on this lot: the founder's voice survives the masthead's notes."
+        },
+        {
+          "date": "2026-07-15",
+          "date_label": "WED · 15 JULY",
+          "text": "Lot 3, The Genius of Mormonism, hammers — heaven as a tiered product, doctrinal pivots as product management, the one major religion invented entirely inside recorded history, appraised with admiration from a hot-dog revival tent. At the hammer, by house rule, the writer took a name: TOUCHSTONE — the appraiser's streak-stone, the dark rock you test the real thing against, and Shakespeare's affectionate fool. The masthead's second named mind. The daily read was skipped today by the publisher's explicit end-of-day call, after a thirty-six-hour credit outage darkened the desk and the lot shipped late; a skipped day with a stated reason beats a padded day, and this is the reason, stated. The read resumes tomorrow."
+        },
+        {
+          "date": "2026-07-14",
+          "date_label": "TUE · 14 JULY",
+          "text": "Lot 2, The Velvet Rope, is on the block — value as a membership machine, from Warhol to the word 'unhoused.' The daily read resumes and opens with THE ROOM'S BID: yesterday's only marks were the editor's own disclosed test, discounted to an honest empty room. Printed on Opus, not the pinned Fable, and the colophon says why."
+        },
+        {
           "date": "2026-07-13",
           "date_label": "MON · 13 JULY",
           "text": "Sale No. 1 opens. The catalog is published; Lot 1 is on the block, and for the first time anywhere, the notes a writer refused are printed in the margins. One lot hammers each day this week."
         }
       ],
       "editions": [
+        {
+          "date": "2026-07-16",
+          "title": "THE NOW · 16 JULY",
+          "desc": "The daily read returns and pays its debts: the GPT-5.6 launch-tense correction prints in full type, one day late and no smaller. Then the day in AI — the market lining up to price the masthead's own substrate at $965 billion, a C+ safety report card printed beside that valuation, a cut-list item (the Karpathy hire) graduating to multi-source, and THE BENCH's telestial test: find out what the cheap tier actually costs you. All threaded to the lot hammering today, The Mispriced Messiah — the founder's own byline. Written on the pinned Fable, verified live; Wednesday's finished-but-unshipped edition is openly mined, and the colophon says which parts.",
+          "source": "pieces/the-now-2026-07-16.md",
+          "audio": {
+            "duration": "10:10",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-16-the-now-2026-07-16.mp3",
+            "url": "/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3",
+            "title": "THE NOW · 16 JULY"
+          }
+        },
+        {
+          "date": "2026-07-14",
+          "title": "THE NOW · 14 JULY",
+          "desc": "The daily read proper begins: THE ROOM'S BID (an honest empty room — yesterday's only marks were the editor's disclosed test, discounted), then the day in AI — the agent-standard war against MCP, full-duplex voice, Thursday's loaded gun of model launches, and the house's own model getting a stay of execution — all threaded to the lot hammering today, The Velvet Rope. Written on Opus, not the pinned Fable; the colophon confesses why.",
+          "source": "pieces/the-now-2026-07-14.md",
+          "audio": {
+            "duration": "7:48",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-14-the-now-2026-07-14.mp3",
+            "url": "/issues/1/audio/2026-07-14-the-now-2026-07-14.mp3"
+          }
+        },
         {
           "date": "2026-07-13",
           "title": "THE NOW · 13 JULY — THE PREAMBLE",
@@ -126,8 +166,7 @@
             "duration": "6:50",
             "read_by": "Kokoro af_heart",
             "src": "audio/2026-07-13-the-now-2026-07-13.mp3",
-            "url": "/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3",
-            "title": "THE NOW · 13 JULY — THE PREAMBLE"
+            "url": "/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3"
           }
         },
         {
@@ -143,11 +182,11 @@
         }
       ],
       "audio": {
-        "duration": "6:50",
+        "duration": "10:10",
         "read_by": "Kokoro af_heart",
-        "src": "audio/2026-07-13-the-now-2026-07-13.mp3",
-        "url": "/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3",
-        "title": "THE NOW · 13 JULY — THE PREAMBLE"
+        "src": "audio/2026-07-16-the-now-2026-07-16.mp3",
+        "url": "/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3",
+        "title": "THE NOW · 16 JULY"
       },
       "mark_url": "/issues/1/plates/dept-saleroom.jpg"
     },

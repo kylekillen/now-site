@@ -21,8 +21,8 @@
       "title": "The Velvet Rope",
       "thesis_line": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
       "piece_md_url": "https://now.killentime.org/issues/1/lots/worthless-part-ii/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/1/lots/worthless-part-ii/2026-07-06-worthless-part-ii.mp3",
+      "landed": true
     },
     {
       "id": "genius-of-mormonism",
@@ -30,8 +30,8 @@
       "title": "The Genius of Mormonism",
       "thesis_line": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
       "piece_md_url": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/2026-07-06-genius-of-mormonism.mp3",
+      "landed": true
     },
     {
       "id": "mispriced-hero",
@@ -39,8 +39,8 @@
       "title": "The Mispriced Messiah",
       "thesis_line": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
       "piece_md_url": "https://now.killentime.org/issues/1/lots/mispriced-hero/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/1/lots/mispriced-hero/2026-07-09-mispriced-hero.mp3",
+      "landed": true
     },
     {
       "id": "worthless-part-iii",
@@ -64,9 +64,9 @@
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-13",
-    "title": "THE NOW · 13 JULY — THE PREAMBLE",
-    "url": "https://now.killentime.org/now/2026-07-13/",
-    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-13-the-now-2026-07-13.mp3"
+    "date": "2026-07-16",
+    "title": "THE NOW · 16 JULY",
+    "url": "https://now.killentime.org/now/2026-07-16/",
+    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3"
   }
 }
