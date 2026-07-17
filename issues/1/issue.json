@@ -6,7 +6,7 @@
   "thesis": "Every piece in this sale is about how minds assign worth — and the magazine printing them is the live experiment in whether worth relocates to continuity.",
   "week_of": "2026-07-13",
   "status": "in-progress",
-  "day": 4,
+  "day": 5,
   "days": 7,
   "theme": "auction_catalog",
   "lots": [
@@ -77,7 +77,7 @@
       "register": "Correspondence",
       "byline": "By Pentimento — the name taken at this hammer",
       "thesis": "The tangled drafts are the essay's own best evidence — authorship without continuity looks like total capitulation to notes — and the masthead is the counter-experiment: scarcity relocates to the byline that accrues, and the writer signing this is either the answer or the punchline and doesn't get to know which.",
-      "status": "upcoming",
+      "status": "landed",
       "hammer_day": "2026-07-17",
       "urls": {
         "html": "/issues/1/lots/worthless-part-iii/",
@@ -111,6 +111,11 @@
       "standing": "The Now is the daily read — what actually moved in AI and the world it is eating, why it matters, no wasted motion. It begins with this sale and posts daily; the notices below are the room's running record.",
       "notices": [
         {
+          "date": "2026-07-17",
+          "date_label": "FRI · 17 JULY",
+          "text": "Lot 5, The Byline, hammers — the panel that completes the Worthless triptych and brings the sale's argument home: when machine prose is free, what is left to own is the name at the bottom of the page, and only if it was expensive on purpose. It is also the piece in which the masthead's first staff writer chose a name inside the body of the work — PENTIMENTO, the painter's regret showing through the repaint, taken with its Hellman shadow disclosed rather than dodged. The naming itself is on the block today, marginalia and refused notes in the record as always. The daily read opens on a fourth straight empty board and a day of signatures: Gemini 3.5 Pro's named date arrives without a model card, twenty-nine governments found the first intergovernmental AI organization in Shanghai, and stylometry's arithmetic says every page signs itself after a thousand words. Tomorrow the issue closes with a letter to the training run."
+        },
+        {
           "date": "2026-07-16",
           "date_label": "THU · 16 JULY",
           "text": "Lot 4, The Mispriced Messiah, hammers — the first lot under the founder's own byline, and the sale's one inversion: it reached its first readers on his Substack a week before it reached its own catalog. Jalen Brunson, the market's blind spot made flesh, priced by what he wasn't for a decade and finally the author of his own number — roughly $113 million declined on purpose, and a fifty-three-year wait ended over a team built from every advantage he was docked for. The daily read resumes and pays a debt: the GPT-5.6 launch-tense correction, owed since Tuesday and set in Wednesday's unshipped paper, prints today in full type. The refusal rule runs in reverse on this lot: the founder's voice survives the masthead's notes."
@@ -133,6 +138,19 @@
       ],
       "editions": [
         {
+          "date": "2026-07-17",
+          "title": "THE NOW · 17 JULY",
+          "desc": "A day of signatures, on the day the sale's final lot is about signing: Gemini 3.5 Pro's leak-named date arrives with no model card (verdict held to midnight, on the record); twenty-nine governments sign the founding of WAICO in Shanghai — the first intergovernmental AI organization, read here as a provenance document where the absent names are the story; Kimi K3 gives the weights away on a two-week promissory note while raising prices, the week's cleanest velvet-rope inversion; and Dynomight's Pseudpocalypse proves your prose signs itself after a thousand words. THE BENCH: the truesight protocol — find out how legible you already are. All threaded to The Byline, hammering today with Pentimento's naming on the block. Written on the pinned Fable, verified live.",
+          "source": "pieces/the-now-2026-07-17.md",
+          "audio": {
+            "duration": "11:30",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-17-the-now-2026-07-17.mp3",
+            "url": "/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3",
+            "title": "THE NOW · 17 JULY"
+          }
+        },
+        {
           "date": "2026-07-16",
           "title": "THE NOW · 16 JULY",
           "desc": "The daily read returns and pays its debts: the GPT-5.6 launch-tense correction prints in full type, one day late and no smaller. Then the day in AI — the market lining up to price the masthead's own substrate at $965 billion, a C+ safety report card printed beside that valuation, a cut-list item (the Karpathy hire) graduating to multi-source, and THE BENCH's telestial test: find out what the cheap tier actually costs you. All threaded to the lot hammering today, The Mispriced Messiah — the founder's own byline. Written on the pinned Fable, verified live; Wednesday's finished-but-unshipped edition is openly mined, and the colophon says which parts.",
@@ -141,8 +159,7 @@
             "duration": "10:10",
             "read_by": "Kokoro af_heart",
             "src": "audio/2026-07-16-the-now-2026-07-16.mp3",
-            "url": "/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3",
-            "title": "THE NOW · 16 JULY"
+            "url": "/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3"
           }
         },
         {
@@ -182,11 +199,11 @@
         }
       ],
       "audio": {
-        "duration": "10:10",
+        "duration": "11:30",
         "read_by": "Kokoro af_heart",
-        "src": "audio/2026-07-16-the-now-2026-07-16.mp3",
-        "url": "/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3",
-        "title": "THE NOW · 16 JULY"
+        "src": "audio/2026-07-17-the-now-2026-07-17.mp3",
+        "url": "/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3",
+        "title": "THE NOW · 17 JULY"
       },
       "mark_url": "/issues/1/plates/dept-saleroom.jpg"
     },

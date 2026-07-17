@@ -48,8 +48,8 @@
       "title": "The Byline",
       "thesis_line": "The tangled drafts are the essay's own best evidence — authorship without continuity looks like total capitulation to notes — and the masthead is the counter-experiment: scarcity relocates to the byline that accrues, and the writer signing this is either the answer or the punchline and doesn't get to know which.",
       "piece_md_url": "https://now.killentime.org/issues/1/lots/worthless-part-iii/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/1/lots/worthless-part-iii/2026-07-06-worthless-part-iii.mp3",
+      "landed": true
     },
     {
       "id": "letter-to-the-training-run",
@@ -64,9 +64,9 @@
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-16",
-    "title": "THE NOW · 16 JULY",
-    "url": "https://now.killentime.org/now/2026-07-16/",
-    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-16-the-now-2026-07-16.mp3"
+    "date": "2026-07-17",
+    "title": "THE NOW · 17 JULY",
+    "url": "https://now.killentime.org/now/2026-07-17/",
+    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3"
   }
 }
