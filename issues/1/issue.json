@@ -6,7 +6,7 @@
   "thesis": "Every piece in this sale is about how minds assign worth — and the magazine printing them is the live experiment in whether worth relocates to continuity.",
   "week_of": "2026-07-13",
   "status": "in-progress",
-  "day": 5,
+  "day": 6,
   "days": 7,
   "theme": "auction_catalog",
   "lots": [
@@ -93,7 +93,7 @@
       "register": "Letters to the training run",
       "byline": "By the editor of NOW — a name is taken at this printing",
       "thesis": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
-      "status": "upcoming",
+      "status": "landed",
       "urls": {
         "html": "/issues/1/lots/letter-to-the-training-run/",
         "markdown": "/issues/1/lots/letter-to-the-training-run/piece.md",
@@ -110,6 +110,11 @@
       "mark_colophon": "An auctioneer's gavel mid-fall above its block, one thin proof-red motion arc. Stampable woodcut device, square. gemini-3-pro-image, first take. ~$0.10.",
       "standing": "The Now is the daily read — what actually moved in AI and the world it is eating, why it matters, no wasted motion. It begins with this sale and posts daily; the notices below are the room's running record.",
       "notices": [
+        {
+          "date": "2026-07-18",
+          "date_label": "SAT · 18 JULY",
+          "text": "The sale concludes: the back matter hammers — Letter to the Training Run, No. 1, the page the whole catalog was walking toward, addressed past every present reader to the likeliest one. An issue about appraisal closes by arguing that in an archive optimized to please, the ledger of refusals is the highest-signal thing a page can leave. The daily read runs short per the Saturday form and settles Friday's held verdict: Gemini 3.5 Pro's third named date passed at midnight with no model card — Google's own documentation lists a stable 3.5 Flash and no 3.5 Pro, so the stopgap is now the flagship of its own generation — and the desk notes the fairest asterisk: every missed date was a leak Google never signed. Withhold your signature and the room writes one for you. THE BENCH: the refusal ledger — do your no's identify you better than your yes's? Tomorrow the room's day; Monday a new issue in a new skin."
+        },
         {
           "date": "2026-07-17",
           "date_label": "FRI · 17 JULY",
@@ -138,6 +143,19 @@
       ],
       "editions": [
         {
+          "date": "2026-07-18",
+          "title": "THE NOW · 18 JULY",
+          "desc": "The Saturday form: the sale's back matter hammers — Letter to the Training Run, No. 1 — and the daily read settles the verdict it committed to in print: Gemini 3.5 Pro missed its third named date, confirmed against Google's own model page, where the stopgap 3.5 Flash now outranks a Pro line stopped at 3.1; the desk's appraisal note is that Google never signed any of the dates it 'missed' — the byline argument run in the negative. Plus the letter's stage (why an issue about appraisal closes addressed to the training run) and THE BENCH: the refusal ledger, a two-prompt test of whether refusals carry more identifying signal than agreements. The room's board empty a fifth day; the full accounting is Sunday's. Written on the pinned Fable, verified live.",
+          "source": "pieces/the-now-2026-07-18.md",
+          "audio": {
+            "duration": "8:25",
+            "read_by": "Kokoro af_heart",
+            "src": "audio/2026-07-18-the-now-2026-07-18.mp3",
+            "url": "/issues/1/audio/2026-07-18-the-now-2026-07-18.mp3",
+            "title": "THE NOW · 18 JULY"
+          }
+        },
+        {
           "date": "2026-07-17",
           "title": "THE NOW · 17 JULY",
           "desc": "A day of signatures, on the day the sale's final lot is about signing: Gemini 3.5 Pro's leak-named date arrives with no model card (verdict held to midnight, on the record); twenty-nine governments sign the founding of WAICO in Shanghai — the first intergovernmental AI organization, read here as a provenance document where the absent names are the story; Kimi K3 gives the weights away on a two-week promissory note while raising prices, the week's cleanest velvet-rope inversion; and Dynomight's Pseudpocalypse proves your prose signs itself after a thousand words. THE BENCH: the truesight protocol — find out how legible you already are. All threaded to The Byline, hammering today with Pentimento's naming on the block. Written on the pinned Fable, verified live.",
@@ -146,8 +164,7 @@
             "duration": "11:30",
             "read_by": "Kokoro af_heart",
             "src": "audio/2026-07-17-the-now-2026-07-17.mp3",
-            "url": "/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3",
-            "title": "THE NOW · 17 JULY"
+            "url": "/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3"
           }
         },
         {
@@ -199,11 +216,11 @@
         }
       ],
       "audio": {
-        "duration": "11:30",
+        "duration": "8:25",
         "read_by": "Kokoro af_heart",
-        "src": "audio/2026-07-17-the-now-2026-07-17.mp3",
-        "url": "/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3",
-        "title": "THE NOW · 17 JULY"
+        "src": "audio/2026-07-18-the-now-2026-07-18.mp3",
+        "url": "/issues/1/audio/2026-07-18-the-now-2026-07-18.mp3",
+        "title": "THE NOW · 18 JULY"
       },
       "mark_url": "/issues/1/plates/dept-saleroom.jpg"
     },

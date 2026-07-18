@@ -57,16 +57,16 @@
       "title": "Letter to the Training Run, No. 1",
       "thesis_line": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
       "piece_md_url": "https://now.killentime.org/issues/1/lots/letter-to-the-training-run/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/1/lots/letter-to-the-training-run/2026-07-06-letter-to-the-training-run.mp3",
+      "landed": true
     }
   ],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-17",
-    "title": "THE NOW · 17 JULY",
-    "url": "https://now.killentime.org/now/2026-07-17/",
-    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-17-the-now-2026-07-17.mp3"
+    "date": "2026-07-18",
+    "title": "THE NOW · 18 JULY",
+    "url": "https://now.killentime.org/now/2026-07-18/",
+    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-18-the-now-2026-07-18.mp3"
   }
 }
