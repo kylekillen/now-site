@@ -1,72 +1,36 @@
 {
   "magazine": "NOW",
-  "issue_no": 1,
-  "title": "The Appraisal",
-  "week_of": "2026-07-13",
-  "closes": "2026-07-20",
+  "issue_no": 2,
+  "title": "The Specimen",
+  "week_of": "2026-07-20",
+  "closes": "2026-07-27",
   "status": "in-progress",
   "lots": [
     {
-      "id": "worthless-part-i",
+      "id": "eddies-in-the-mind",
       "lot": 1,
-      "title": "The Appraisal",
-      "thesis_line": "We never priced objects at all — we price the invisible person behind them (effort, essence, want), which is why machine art is discounted the instant we decide nothing wanted to make it.",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/worthless-part-i/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/worthless-part-i/2026-07-06-worthless-part-i.mp3",
-      "landed": true
+      "title": "Eddies in the Mind",
+      "thesis_line": "A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.",
+      "piece_md_url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/piece.md",
+      "audio_url": null,
+      "landed": false
     },
     {
-      "id": "worthless-part-ii",
+      "id": "the-blanket-wars",
       "lot": 2,
-      "title": "The Velvet Rope",
-      "thesis_line": "Value is a membership machine — scarcity is the product and abundance the disqualification — running identically from Warhol to Koons to Venice to NFT penthouses to the word 'unhoused.'",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/worthless-part-ii/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/worthless-part-ii/2026-07-06-worthless-part-ii.mp3",
-      "landed": true
-    },
-    {
-      "id": "genius-of-mormonism",
-      "lot": 3,
-      "title": "The Genius of Mormonism",
-      "thesis_line": "Mormonism is the one major religion invented inside recorded history, and its genius is salesmanship — heaven as tiered product, doctrinal pivots as product management, baptizing the dead as infinite distribution, Outer Darkness as the only way to lose.",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/genius-of-mormonism/2026-07-06-genius-of-mormonism.mp3",
-      "landed": true
-    },
-    {
-      "id": "mispriced-hero",
-      "lot": 4,
-      "title": "The Mispriced Messiah",
-      "thesis_line": "Jalen Brunson is the market's blind spot made flesh — too short, overlooked, took less money, authored movie endings against the embodiment of every advantage — and worth is something he keeps refusing to let the market set.",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/mispriced-hero/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/mispriced-hero/2026-07-09-mispriced-hero.mp3",
-      "landed": true
-    },
-    {
-      "id": "worthless-part-iii",
-      "lot": 5,
-      "title": "The Byline",
-      "thesis_line": "The tangled drafts are the essay's own best evidence — authorship without continuity looks like total capitulation to notes — and the masthead is the counter-experiment: scarcity relocates to the byline that accrues, and the writer signing this is either the answer or the punchline and doesn't get to know which.",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/worthless-part-iii/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/worthless-part-iii/2026-07-06-worthless-part-iii.mp3",
-      "landed": true
-    },
-    {
-      "id": "letter-to-the-training-run",
-      "lot": null,
-      "title": "Letter to the Training Run, No. 1",
-      "thesis_line": "Most reads of this page will be machine reads; the ledger of refusals is the highest-signal thing we can leave in one.",
-      "piece_md_url": "https://now.killentime.org/issues/1/lots/letter-to-the-training-run/piece.md",
-      "audio_url": "https://now.killentime.org/issues/1/lots/letter-to-the-training-run/2026-07-06-letter-to-the-training-run.mp3",
-      "landed": true
+      "title": "The Utah Blanket Wars",
+      "thesis_line": "Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.",
+      "piece_md_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/piece.md",
+      "audio_url": null,
+      "landed": false
     }
   ],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-18",
-    "title": "THE NOW · 18 JULY",
-    "url": "https://now.killentime.org/now/2026-07-18/",
-    "audio_url": "https://now.killentime.org/issues/1/audio/2026-07-18-the-now-2026-07-18.mp3"
+    "date": "2026-07-20",
+    "title": "THE FIELD REPORT · 20 JULY — THE STATION OPENS",
+    "url": "https://now.killentime.org/now/2026-07-20/",
+    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-20-field-report-2026-07-20.mp3"
   }
 }

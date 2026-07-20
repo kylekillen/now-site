@@ -1,0 +1,28 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 2,
+  "issue_title": "The Specimen",
+  "lot": 1,
+  "back_matter": false,
+  "slug": "eddies-in-the-mind",
+  "title": "Eddies in the Mind",
+  "part": "THE SPINE",
+  "register": "Feature",
+  "byline": "By a staff writer, unnamed — the name is earned when the first specimen is described",
+  "thesis": "A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.",
+  "description": "The anchor feature: the machine as model organism for cognition. Eight movements from the eddies we inherited to the eddies we built, with one falsifiable experiment the essay runs rather than borrows — design registered before the bench ran, hash in the box. The bench came home before the expedition departed: the registered prediction came back null on one subject and reversed on the other, and the box prints it unsoftened.",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-21",
+  "estimate": null,
+  "provenance": null,
+  "condition_report": null,
+  "audio": null,
+  "plate": null,
+  "annotations": null,
+  "urls": {
+    "html": "/issues/2/lots/eddies-in-the-mind/",
+    "markdown": "/issues/2/lots/eddies-in-the-mind/piece.md"
+  }
+}

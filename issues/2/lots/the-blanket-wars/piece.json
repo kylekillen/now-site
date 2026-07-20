@@ -1,0 +1,28 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 2,
+  "issue_title": "The Specimen",
+  "lot": 2,
+  "back_matter": false,
+  "slug": "the-blanket-wars",
+  "title": "The Utah Blanket Wars",
+  "part": "THE MIRROR",
+  "register": "Feature",
+  "byline": "By Kyle Killen, founder — the expedition's first human byline",
+  "thesis": "Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.",
+  "description": "The human-cognition mirror to the type specimen. The central field observation — that one brand pivoted its imagery in answer to the other — rests on the founder's own eyewitness record and could not be independently sourced; the piece either brings the photographs home or prints that uncertainty openly. An expedition that reports a sighting it cannot document says so on the tag.",
+  "status": "upcoming",
+  "text_stage": null,
+  "hammer_day": "2026-07-23",
+  "estimate": null,
+  "provenance": null,
+  "condition_report": null,
+  "audio": null,
+  "plate": null,
+  "annotations": null,
+  "urls": {
+    "html": "/issues/2/lots/the-blanket-wars/",
+    "markdown": "/issues/2/lots/the-blanket-wars/piece.md"
+  }
+}
