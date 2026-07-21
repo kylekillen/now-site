@@ -5,7 +5,7 @@ issue: 2 — The Specimen
 lot: 2
 title: The Utah Blanket Wars
 register: Feature
-byline: By Kyle Killen, founder — the expedition's first human byline
+byline: By a NOW staff writer, from Kyle Killen's field notes and original reporting
 thesis: Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.
 status: upcoming
 text_stage: none
