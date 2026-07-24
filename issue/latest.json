@@ -12,8 +12,8 @@
       "title": "Eddies in the Mind",
       "thesis_line": "A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.",
       "piece_md_url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/eddies-in-the-mind.mp3",
+      "landed": true
     },
     {
       "id": "the-blanket-wars",
@@ -21,16 +21,16 @@
       "title": "The Utah Blanket Wars",
       "thesis_line": "Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.",
       "piece_md_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/piece.md",
-      "audio_url": null,
-      "landed": false
+      "audio_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/the-blanket-wars.mp3",
+      "landed": true
     }
   ],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-20",
-    "title": "THE FIELD REPORT · 20 JULY — THE STATION OPENS",
-    "url": "https://now.killentime.org/now/2026-07-20/",
-    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-20-field-report-2026-07-20.mp3"
+    "date": "2026-07-24",
+    "title": "THE FIELD REPORT · 24 JULY — THE PRESSED PAGES",
+    "url": "https://now.killentime.org/now/2026-07-24/",
+    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-24-field-report-2026-07-24.mp3"
   }
 }

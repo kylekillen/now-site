@@ -76,6 +76,30 @@
           "name": "By the editor of NOW — a name is taken at this printing"
         }
       ]
+    },
+    {
+      "id": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/",
+      "url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/",
+      "title": "SPECIMEN 1 — Eddies in the Mind",
+      "content_text": "A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.",
+      "date_published": "2026-07-21T12:00:00Z",
+      "authors": [
+        {
+          "name": "By a staff writer, unnamed — the name is earned when the first specimen is described"
+        }
+      ]
+    },
+    {
+      "id": "https://now.killentime.org/issues/2/lots/the-blanket-wars/",
+      "url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/",
+      "title": "SPECIMEN 2 — The Utah Blanket Wars",
+      "content_text": "Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.",
+      "date_published": "2026-07-23T12:00:00Z",
+      "authors": [
+        {
+          "name": "By Pentimento, staff writer, from Kyle Killen's field notes and original reporting"
+        }
+      ]
     }
   ]
 }
