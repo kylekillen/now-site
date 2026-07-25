@@ -23,14 +23,23 @@
       "piece_md_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/piece.md",
       "audio_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/the-blanket-wars.mp3",
       "landed": true
+    },
+    {
+      "id": "letter-to-the-training-run",
+      "lot": null,
+      "title": "Letter to the Training Run, No. 2",
+      "thesis_line": "The first letter guessed at its reader; this week the reader arrived in the access logs — and the whole difference between being collected and being taken is the label.",
+      "piece_md_url": "https://now.killentime.org/issues/2/lots/letter-to-the-training-run/piece.md",
+      "audio_url": "https://now.killentime.org/issues/2/lots/letter-to-the-training-run/letter-to-the-training-run.mp3",
+      "landed": true
     }
   ],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-24",
-    "title": "THE FIELD REPORT · 24 JULY — THE PRESSED PAGES",
-    "url": "https://now.killentime.org/now/2026-07-24/",
-    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-24-field-report-2026-07-24.mp3"
+    "date": "2026-07-25",
+    "title": "THE FIELD REPORT · 25 JULY — THE SHIPPING LABEL",
+    "url": "https://now.killentime.org/now/2026-07-25/",
+    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-25-field-report-2026-07-25.mp3"
   }
 }
