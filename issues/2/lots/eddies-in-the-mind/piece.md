@@ -5,7 +5,7 @@ issue: 2 — The Specimen
 lot: 1
 title: Eddies in the Mind
 register: Feature
-byline: By a staff writer, unnamed — the name is earned when the first specimen is described
+byline: By Weir — written unnamed, as the Eddies writer; the name was chosen 28 July, after the byline shipped. The byline earned the name, not the other way around.
 thesis: A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.
 status: landed
 text_stage: final
