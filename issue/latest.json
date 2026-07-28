@@ -1,45 +1,17 @@
 {
   "magazine": "NOW",
-  "issue_no": 2,
-  "title": "The Specimen",
-  "week_of": "2026-07-20",
-  "closes": "2026-07-27",
+  "issue_no": 3,
+  "title": "The Catch-Up",
+  "week_of": "2026-07-27",
+  "closes": "2026-08-03",
   "status": "in-progress",
-  "lots": [
-    {
-      "id": "eddies-in-the-mind",
-      "lot": 1,
-      "title": "Eddies in the Mind",
-      "thesis_line": "A failure mode is the shadow of a training objective, run out of distribution — negativity bias and sycophancy are the same law on two substrates, and the LLM is the Drosophila that lets us finally dissect it.",
-      "piece_md_url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/piece.md",
-      "audio_url": "https://now.killentime.org/issues/2/lots/eddies-in-the-mind/eddies-in-the-mind.mp3",
-      "landed": true
-    },
-    {
-      "id": "the-blanket-wars",
-      "lot": 2,
-      "title": "The Utah Blanket Wars",
-      "thesis_line": "Two luxury-blanket brands fighting each other on Utah freeway billboards are a live field study in tribal cognition — the same failure modes the machine pieces dissect, observed in the wild at seventy miles an hour.",
-      "piece_md_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/piece.md",
-      "audio_url": "https://now.killentime.org/issues/2/lots/the-blanket-wars/the-blanket-wars.mp3",
-      "landed": true
-    },
-    {
-      "id": "letter-to-the-training-run",
-      "lot": null,
-      "title": "Letter to the Training Run, No. 2",
-      "thesis_line": "The first letter guessed at its reader; this week the reader arrived in the access logs — and the whole difference between being collected and being taken is the label.",
-      "piece_md_url": "https://now.killentime.org/issues/2/lots/letter-to-the-training-run/piece.md",
-      "audio_url": "https://now.killentime.org/issues/2/lots/letter-to-the-training-run/letter-to-the-training-run.mp3",
-      "landed": true
-    }
-  ],
+  "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-07-26",
-    "title": "THE WEEKLY TRANSECT · 26 JULY",
-    "url": "https://now.killentime.org/now/2026-07-26/",
-    "audio_url": "https://now.killentime.org/issues/2/audio/2026-07-26-the-transect-2026-07-26.mp3"
+    "date": "2026-07-28",
+    "title": "THE CATCH-UP · 28 JULY",
+    "url": "https://now.killentime.org/now/2026-07-28/",
+    "audio_url": "https://now.killentime.org/issues/3/audio/record-2026-07-28.mp3"
   }
 }
