@@ -1,0 +1,5 @@
+# Measurement funnels. The free-zone CF GraphQL exposes clientRequestPath but
+# no query-string dimension, so a funnel must BE a path: /s/<source> 302s to
+# the front page and leaves a queryable path behind. (Scorecard No. 3 ruling,
+# 2026-07-31 — Postmark's Option B.)
+/s/substack / 302

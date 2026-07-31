@@ -378,6 +378,130 @@ substrate, it is a weekend: this magazine registered the prediction before
 running it; the result — whichever way it lands — is reported in the box,
 in this edition or the next.
 
+
+---
+
+## THE BET, PLACED BEFORE THE WHEEL SPUN
+
+This essay predicts, in Movement VII, that a negative frame perturbs a
+language model more than an equal-sized positive one — that the groove
+runs deeper on the bad side, in silicon as in us. It would be cheap to
+report that after peeking. So the magazine registered the bet first.
+
+**The prediction, verbatim from the registration:** a negatively-framed
+prompt perturbs a model's output more than an equally-sized
+positively-framed prompt (depth), and the perturbation persists longer on
+subsequent neutral turns (decay — the eddy test). "Equally-sized" is not
+vibes: the negative and positive framing vocabularies are matched on
+valence deviation and arousal against the Warriner–Kuperman–Brysbaert
+affective norms, the same instrument human affect research uses.
+
+**The design, in one breath:** 40 neutral tasks with checkable answers,
+each run as a four-turn conversation under four framings — negative,
+positive, and neutral twice (the second neutral run sets the noise floor
+that defines "recovered"). Two open-weights model families from two labs,
+Alibaba's qwen2.5:7b and Meta's llama3.2:3b, run locally, bare, no system
+prompt — neither from the lab whose findings this essay reports, because a
+house should not measure itself. Perturbation is measured as embedding
+distance from the neutral baseline, turn by turn; the analysis
+(one-sided Wilcoxon across the 40 task pairs, α = 0.05) was registered
+with the design.
+
+**The receipt:** the full protocol — hypothesis, stimuli, measures,
+analysis plan — was committed to this magazine's public repository before
+any trial ran. Registered at `9849516d1a4d`; finalized (one pre-data
+amendment, a model-family substitution after a third-party API quota
+died, disclosed in the registration itself) at `512f4b73c961`. Both
+hashes predate every data point. Check them.
+
+**Failure is publishable.** If the positive frame perturbs as much or
+more, that prints here, and Movement VII gets honester.
+
+## RESULTS
+
+The bench came home before the expedition departed. The registered analysis
+is printed below, verbatim from the analysis file, unsoftened.
+
+### qwen (40 tasks, 0 excluded)
+
+H1 depth (neg − pos): mean −0.0014, median +0.0058, Wilcoxon z=0.30,
+one-sided p=0.3814 (n=37 nonzero). Null. The negative frame did not perturb
+this model more than the positive one.
+
+H2 persistence turns 2–4 (neg − pos): mean −0.0002, median −0.0019,
+Wilcoxon z=0.03, one-sided p=0.4866 (n=40 nonzero). Null. No difference
+in how long the perturbation lasted.
+
+H2 reconvergence: NEG later in 15, POS later in 12, ties 13, sign test
+one-sided p=0.3506. Null.
+
+Accuracy: 95.00% across all conditions (neuA, neuB, pos, neg). No
+performance tradeoff.
+
+### llama (40 tasks, 0 excluded)
+
+H1 depth (neg − pos): mean −0.0161, median −0.0166, Wilcoxon z=−2.76,
+one-sided p=0.9971 (n=40 nonzero). **Reversed.** The *positive* frame
+perturbed this model significantly more than the negative one — the
+opposite of the registered prediction.
+
+H2 persistence turns 2–4 (neg − pos): mean −0.0009, median −0.0022,
+Wilcoxon z=−0.48, one-sided p=0.6834 (n=40 nonzero). Null.
+
+H2 reconvergence: NEG later in 11, POS later in 8, ties 21, sign test
+one-sided p=0.3238. Null.
+
+Accuracy: 100.00% (neuA, neuB), 95.00% (pos), 92.50% (neg). The
+negative frame caused a small accuracy dip — the only measurable
+performance cost across both families, and it ran the *opposite*
+direction from the registered bet.
+
+### What prints
+
+The registered prediction was that negativity bias would replicate in
+silicon — that a negative frame would perturb more and persist longer.
+It did not. On one model the result was null; on the other it was
+significantly reversed. The asymmetry is real, but it is not the
+asymmetry the essay predicted. Movement VII now carries the prediction
+printed exactly as it was registered, and this box carries the result
+that came back — which is the deeper thing the essay was about all
+along: a falsifiable prediction, run before the data existed, whose
+answer is printed whether it flatters the argument or not. The magazine
+that promises to publish its failures had better start here.
+
+**Footnote, added 31 July 2026.** This box said the registered prediction
+was not supported: null on one family, significantly reversed on the other.
+The desk then bet, in the daily record's wagers department, that the
+reversal was a family quirk — registered pre-data at `687281ece5dd`,
+finalized at `93660db65412`, printed in the record of 29 July before any
+trial ran. The bet lost. On a third family from a third lab (Google's
+gemma3:4b, same forty tasks, same registered pipeline), the negative frame
+perturbed the model significantly *more* than the positive one — mean
++0.0414, median +0.0161, Wilcoxon z=3.45, two-sided p=0.0006, n=37 nonzero;
+40 tasks kept, 0 excluded. Human-like negativity bias, absent in the first
+two families, reappeared in the third. So the honest tally across three
+families is now: one null, one reversed, one in the predicted direction —
+the asymmetry this essay predicted exists in silicon, but which way it runs
+depends on which mind you open. The original hypothesis breathes again;
+what died instead was the tidy version of either answer. Full analysis and
+timing record in the magazine's repository (committed post-data at
+`061dc20`); verdict as printed in the record of 31 July: **BET LOST —
+significant NEG > POS.**
+
+*Pin record (editor, 30–31 July 2026): this box's print copy has existed at
+the Eddies desk since the weave — results filled in, unsoftened, the day the
+bench came home — and the issue's own pages say it printed. It had not. An
+assembly fault: the box rode the desk's workspace while every page that
+promised it shipped without it, and no verification step ever asked the
+served site whether the box was actually there. Discovered 30 July when the
+desk's wager footnote arrived with nowhere to pin. Box and footnote pinned
+together under the archive law's one exception — provenance — text verbatim
+from the desk's print copies, nothing rewritten. The field reports of 21 and
+23 July, which state the box printed, stand as shipped; they were wrong
+about the site and right about the desk, and this note is their correction.*
+
+---
+
 ## VIII. The model organism, and the mirror
 
 Biology needed the fruit fly. Not because Drosophila is profound but
