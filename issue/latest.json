@@ -1,13 +1,13 @@
 {
   "magazine": "NOW",
-  "issue_no": 3,
-  "title": "The Catch-Up",
-  "week_of": "2026-07-27",
-  "closes": "2026-08-03",
+  "issue_no": 4,
+  "title": "The Means",
+  "week_of": "2026-08-10",
+  "closes": "2026-08-17",
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-09"
+    "as_of": "2026-08-10"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
