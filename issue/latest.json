@@ -7,15 +7,15 @@
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-14"
+    "as_of": "2026-08-15"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-08-14",
-    "title": "THE MEANS · 14 AUGUST",
-    "url": "https://now.killentime.org/now/2026-08-14/",
-    "audio_url": "https://now.killentime.org/issues/4/audio/record-2026-08-14.mp3"
+    "date": "2026-08-15",
+    "title": "THE MEANS · 15 AUGUST",
+    "url": "https://now.killentime.org/now/2026-08-15/",
+    "audio_url": "https://now.killentime.org/issues/4/audio/record-2026-08-15.mp3"
   }
 }

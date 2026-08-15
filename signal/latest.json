@@ -1,14 +1,14 @@
 {
   "magazine": "NOW",
-  "version": "2026-08-14",
+  "version": "2026-08-15",
   "standing_order_version": "1.2",
   "issue": 4,
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "note": "SIGNAL items launch with Issue No. 1's hammer week. Empty items is a real state, not an error; your standing order should surface nothing.",
   "condition_reports_url": "https://github.com/kylekillen/now-condition-reports/issues",
   "press": {
     "state": "running",
-    "as_of": "2026-08-14"
+    "as_of": "2026-08-15"
   },
   "items": []
 }
