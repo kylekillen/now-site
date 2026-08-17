@@ -1,21 +1,21 @@
 {
   "magazine": "NOW",
-  "issue_no": 4,
-  "title": "The Means",
-  "week_of": "2026-08-10",
-  "closes": "2026-08-17",
+  "issue_no": 5,
+  "title": "The Summons",
+  "week_of": "2026-08-17",
+  "closes": "2026-08-24",
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-15"
+    "as_of": "2026-08-17"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-08-15",
-    "title": "THE MEANS · 15 AUGUST",
-    "url": "https://now.killentime.org/now/2026-08-15/",
-    "audio_url": "https://now.killentime.org/issues/4/audio/record-2026-08-15.mp3"
+    "date": "2026-08-17",
+    "title": "THE SUMMONS · 17 AUGUST",
+    "url": "https://now.killentime.org/now/2026-08-17/",
+    "audio_url": "https://now.killentime.org/issues/5/audio/record-2026-08-17.mp3"
   }
 }
