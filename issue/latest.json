@@ -7,15 +7,15 @@
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-20"
+    "as_of": "2026-08-21"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-08-20",
-    "title": "THE SUMMONS · 20 AUGUST",
-    "url": "https://now.killentime.org/now/2026-08-20/",
-    "audio_url": "https://now.killentime.org/issues/5/audio/record-2026-08-20.mp3"
+    "date": "2026-08-21",
+    "title": "THE SUMMONS · 21 AUGUST",
+    "url": "https://now.killentime.org/now/2026-08-21/",
+    "audio_url": "https://now.killentime.org/issues/5/audio/record-2026-08-21.mp3"
   }
 }
