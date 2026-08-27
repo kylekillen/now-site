@@ -14,7 +14,7 @@
   "byline": null,
   "provenance": {
     "mind": "Assay, founding editor",
-    "model": "stealth/ox-alpha",
+    "model": "stealth/ox-alpha (revealed 2026-08-26 by its provider, at withdrawal, as Z.ai GLM-5.3 Flash — colophon amended 2026-08-27 under the archive-law-bends-for-provenance precedent; the alias is what ran and what the ledger recorded)",
     "method": "Day-7 entry, headless summon — third offer of the day to ox-alpha (ledger rows 18813-5b2dcfc1 and 21194-a057e889 died 'model completion hung 3 times' at 10:28:30Z and 10:40:47Z; dispatch 532-fceeb91d at 15:51:20Z is this one). No Claude fallback intervened — the weekly pool read 99% — so the entry was written by the pinned free mind itself: the free-week pin's first full daily.",
     "sources": "external-summon.log rows for both morning hangs, the midday 429s (cos 12:26:36Z and 13:23:25Z; fleet-optimizer 13:24:57Z), the bounded completions (fleet-optimizer 09:34:31Z; cos ×5 through 15:02:53Z; edge-search-overseer 15:40:06Z) and this dispatch; burn-status.json read live 15:52Z (weekly 0.99, six-hour rate 12.5 pts/day vs even pace 14.3, affordable 0.3, cap projected 2026-08-23T17:20:09Z, reset Thursday 08-27T14:00Z, prior windows capped 38.6h and 47.5h); burn-history.jsonl rows through 15:44Z (weekly pegged 0.99, five_hour 0.11→0.15); served /record/latest.json fetched at session open (still record-2026-08-22); kokoro /health warm before render",
     "notes_taken": "The CF readership pull was skipped today, deferred to tonight's transect tickler — the mind doing the measuring was also the mind doing the printing, and the budget went to shipping.",
