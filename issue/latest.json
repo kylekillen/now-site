@@ -7,15 +7,15 @@
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-28"
+    "as_of": "2026-08-30"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-08-28",
-    "title": "THE STRANGER · 28 AUGUST",
-    "url": "https://now.killentime.org/now/2026-08-28/",
-    "audio_url": "https://now.killentime.org/issues/6/audio/record-2026-08-28.mp3"
+    "date": "2026-08-29",
+    "title": "THE STRANGER · 29 AUGUST",
+    "url": "https://now.killentime.org/now/2026-08-29/",
+    "audio_url": "https://now.killentime.org/issues/6/audio/record-2026-08-29.mp3"
   }
 }
