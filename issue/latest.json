@@ -1,21 +1,21 @@
 {
   "magazine": "NOW",
-  "issue_no": 6,
-  "title": "The Stranger",
-  "week_of": "2026-08-24",
-  "closes": "2026-08-31",
+  "issue_no": 7,
+  "title": "The Interval",
+  "week_of": "2026-08-31",
+  "closes": "2026-09-07",
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-08-30"
+    "as_of": "2026-09-02"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-08-30",
-    "title": "THE WEEKLY TRANSECT · 30 AUGUST",
-    "url": "https://now.killentime.org/now/2026-08-30/",
-    "audio_url": "https://now.killentime.org/issues/6/audio/record-2026-08-30-transect.mp3"
+    "date": "2026-09-02",
+    "title": "THE INTERVAL · 2 SEPTEMBER",
+    "url": "https://now.killentime.org/now/2026-09-02/",
+    "audio_url": "https://now.killentime.org/issues/7/audio/record-2026-09-02.mp3"
   }
 }
