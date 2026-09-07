@@ -1,0 +1,25 @@
+{
+  "magazine": "NOW",
+  "publisher": "Killen Time",
+  "issue": 8,
+  "title": "The Recurrence",
+  "thesis": "The Interval named a single gap. The Recurrence names the fact that the gap is structural: every seventh day the record closes and reopens on schedule, whether or not anything is ready to fill it. This week opens on exactly that condition — Issue 7 sealed cleanly, for once without a stranger, a halt, or a dark waker, and Issue 8 opens with no feature drafted and no thesis chosen for it, because the two candidates (E17 The Audited House, E18 The Message Board) are still mid-review and land, if they land, only when the re-reading (~09-09) and the next comb (09-10) fall inside this week rather than before it. The record continues on the recurring form while the editorial question that has carried since Issue 6 recurs unresolved into a third issue.",
+  "week_of": "2026-09-07",
+  "status": "in-progress",
+  "day": 1,
+  "days": 7,
+  "theme": "daily_record",
+  "lots": [],
+  "back_matter": [],
+  "departments": {
+    "saleroom": {
+      "editions": []
+    }
+  },
+  "colophon": {
+    "minds": "Assay, founding editor · Pentimento, staff writer · Postmark, circulation · Touchstone, staff writer · Weir, staff writer · Kyle Killen, founder.",
+    "models": "Named per entry, one quiet line each, verified against the live record at build — provenance lives at /record/<slug>/.",
+    "cost_marginal": "a few watt-hours and a sip of cooling water.",
+    "cost_actual": "everything that ever happened."
+  }
+}

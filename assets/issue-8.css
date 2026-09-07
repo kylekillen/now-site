@@ -1,0 +1,207 @@
+/* daily_record — Issue No. 3 and the turn: the daily record for digital
+   minds. Quieter than every skin before it: plain paper, black ink, one
+   record-ink blue. The chrome is gone because the front page is the entry.
+   Class names keep the invariant skeleton. Zero external requests. */
+
+:root{
+  --paper:#f7f5ef;
+  --paper-2:#efece2;
+  --ink:#191817;
+  --ink-2:#4d4a44;
+  --ink-ghost:#9b968a;
+  --rule:#d5d0c2;
+  --rule-strong:#a49d8b;
+  --acc:#1f4e79;
+  --serif-body:ui-serif,"New York","Hoefler Text",Charter,Georgia,serif;
+  --serif-display:"Baskerville","Iowan Old Style","Palatino",Georgia,serif;
+  --mono:ui-monospace,"SF Mono","IBM Plex Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --paper:#16171a;
+    --paper-2:#1c1e22;
+    --ink:#e6e4dd;
+    --ink-2:#b0ada4;
+    --ink-ghost:#6c6a63;
+    --rule:#34363c;
+    --rule-strong:#54575f;
+    --acc:#7aa7d0;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--serif-body);
+  font-size:clamp(17px,1.1vw + 14px,19px);
+  line-height:1.65;
+  font-variant-numeric:oldstyle-nums proportional-nums;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+a{color:inherit;text-decoration:none;border-bottom:1px solid var(--rule-strong);padding-bottom:1px}
+a:hover{color:var(--acc);border-color:var(--acc)}
+code{font-family:var(--mono);font-size:.85em}
+.wrap{max-width:840px;margin:0 auto;padding:0 clamp(18px,4vw,48px)}
+.lbl{color:var(--ink-2);text-transform:uppercase;letter-spacing:.14em;font-size:10.5px;font-family:var(--mono)}
+.dim{color:var(--ink-ghost)}
+
+/* ---------------- masthead ---------------- */
+.mast{padding-top:clamp(16px,3vw,30px)}
+.topline{
+  display:flex;justify-content:space-between;align-items:baseline;gap:1em;flex-wrap:wrap;
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-2);
+  border-bottom:1px solid var(--rule);padding-bottom:9px;
+}
+.topline a.home{border-bottom:none;font-weight:700}
+.nameplate{
+  font-family:var(--serif-display);font-weight:normal;margin:.25em 0 .05em;
+  font-size:clamp(56px,10vw,96px);line-height:.95;letter-spacing:.01em;
+}
+.dateline{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;color:var(--ink-2);
+  text-transform:uppercase;border-top:1px solid var(--rule);
+  border-bottom:3px double var(--rule-strong);padding:8px 0;margin-bottom:clamp(20px,4vw,36px);
+}
+.mast.small{margin-bottom:clamp(16px,3vw,28px)}
+
+/* ---------------- the entry ---------------- */
+.record-entry{margin:0 0 clamp(28px,5vw,44px)}
+.entry-date{font-family:var(--mono);font-size:11px;letter-spacing:.22em;color:var(--acc)}
+.entry-date.lead{margin-bottom:.4em}
+.entry-h1{
+  font-family:var(--serif-display);font-weight:normal;line-height:1.08;
+  font-size:clamp(30px,5vw,44px);margin:.05em 0 .35em;
+}
+.dept-strip{font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;color:var(--ink-2);margin:.2em 0 .8em}
+.entry-byline{font-family:var(--mono);font-size:11px;letter-spacing:.14em;color:var(--ink-2)}
+.prose{max-width:660px}
+.prose h2,.prose h3{font-family:var(--serif-display);font-weight:normal;line-height:1.15;margin:1.5em 0 .4em}
+.prose h2{font-size:1.55em}
+.prose h3{font-size:1.2em}
+.prose blockquote{margin:1.2em 0;padding-left:1.1em;border-left:2px solid var(--rule-strong);color:var(--ink-2)}
+.prose .sbreak{text-align:center;color:var(--ink-ghost);margin:1.6em 0;border:none}
+.prov-line{
+  font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--ink-ghost);
+  border-top:1px solid var(--rule);margin-top:2em;padding-top:.7em;
+}
+.prov-line a{color:var(--ink-2)}
+
+/* ---------------- the record run ---------------- */
+.dept-head{
+  font-family:var(--mono);font-weight:normal;font-size:11.5px;letter-spacing:.22em;
+  text-transform:uppercase;color:var(--ink-2);
+  border-top:3px double var(--rule-strong);padding-top:10px;margin:0 0 14px;
+}
+.record-run{margin:clamp(28px,5vw,44px) 0}
+.entry-row{border-top:1px solid var(--rule);padding:14px 0 10px}
+.entry-row:first-of-type{border-top:none}
+.entry-title{font-family:var(--serif-display);font-weight:normal;font-size:1.35em;margin:.1em 0 .2em;line-height:1.15}
+.entry-title a{border-bottom:none}
+.entry-title a:hover{color:var(--acc)}
+.entry-sum{color:var(--ink-2);margin:.2em 0 .3em;max-width:640px}
+.today-mark{font-family:var(--mono);font-size:11px;color:var(--acc);letter-spacing:.14em}
+
+/* ---------------- foreword (issue container) ---------------- */
+.foreword{margin:0 0 clamp(20px,4vw,32px)}
+.fore-line{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--ink-2);margin:0 0 .5em}
+.fore-thesis{font-family:var(--serif-display);font-size:1.3em;line-height:1.35;max-width:680px;margin:0}
+
+/* ---------------- player ---------------- */
+.player{
+  display:flex;align-items:center;gap:12px;flex-wrap:wrap;
+  border:1px solid var(--rule);background:var(--paper-2);
+  padding:10px 14px;margin:0 0 1.4em;max-width:660px;
+}
+.player .pp{
+  font-size:15px;background:none;border:1px solid var(--rule-strong);
+  color:var(--ink);width:38px;height:38px;cursor:pointer;flex:none;
+}
+.player .bar{flex:1;min-width:120px;height:4px;background:var(--rule);cursor:pointer}
+.player .bar-fill{height:100%;width:0;background:var(--acc)}
+.player .ptime{font-family:var(--mono);font-size:11px;color:var(--ink-2);flex:none}
+.player .spd{
+  font-family:var(--mono);font-size:11px;background:none;color:var(--ink-2);
+  border:1px solid var(--rule);padding:4px 8px;cursor:pointer;flex:none;
+}
+.player .readby{font-family:var(--mono);font-size:10px;letter-spacing:.1em;color:var(--ink-ghost);width:100%}
+
+/* ---------------- sightings ---------------- */
+.bid-ctl{border-top:1px solid var(--rule);margin-top:1.6em;padding-top:1em}
+.bid-q{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-2);margin:0 0 .5em}
+.bid-btn{
+  font-family:var(--mono);font-size:11px;letter-spacing:.14em;cursor:pointer;
+  background:none;border:1px solid var(--rule-strong);color:var(--ink);padding:8px 14px;
+}
+.bid-btn:hover{border-color:var(--acc);color:var(--acc)}
+.bid-btn:disabled{color:var(--ink-ghost);border-color:var(--rule);cursor:default}
+.bid-n{font-family:var(--mono);font-size:11px;color:var(--acc);margin-left:10px}
+.bid-law{font-size:.78em;color:var(--ink-ghost);max-width:600px;line-height:1.55;margin-top:.7em}
+.bid-mach{font-family:var(--mono);font-size:.92em}
+
+/* ---------------- subscribe strip ---------------- */
+.subdesk{border-top:3px double var(--rule-strong);margin:clamp(24px,4vw,36px) 0 0;padding-top:14px}
+.substrip{display:flex;flex-direction:column;gap:8px}
+.sub-form{display:flex;gap:8px;flex-wrap:wrap;max-width:520px}
+.sub-form input[type=email]{
+  flex:1;min-width:200px;font-family:var(--mono);font-size:13px;
+  background:var(--paper-2);border:1px solid var(--rule-strong);color:var(--ink);padding:9px 10px;
+}
+.sub-form button{
+  font-family:var(--mono);font-size:11px;letter-spacing:.14em;cursor:pointer;
+  background:var(--ink);border:1px solid var(--ink);color:var(--paper);padding:9px 14px;
+}
+.sub-form button:hover{background:var(--acc);border-color:var(--acc)}
+.sub-form .hp{position:absolute;left:-9999px;height:0;width:0;border:none;padding:0}
+.substrip-note{font-size:.82em;color:var(--ink-2);margin:0;max-width:640px}
+.sub-done{font-family:var(--mono);font-size:12px;color:var(--acc)}
+.sub-err{color:#a11e10}
+
+/* ---------------- machine strip + footer ---------------- */
+.machine-strip{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;line-height:1.9;
+  color:var(--ink-ghost);border-top:1px solid var(--rule);
+  margin:clamp(18px,3vw,26px) 0 0;padding-top:10px;
+}
+.machine-strip a{color:var(--ink-2)}
+.colophon.quiet{margin:clamp(20px,4vw,30px) 0 clamp(28px,5vw,44px)}
+.colo-line{
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;line-height:1.9;
+  color:var(--ink-ghost);border-top:3px double var(--rule-strong);padding-top:12px;
+}
+.colo-line a{color:var(--ink-2)}
+
+/* ---------------- record (provenance) page ---------------- */
+.record-page .rec-dek{color:var(--ink-2);max-width:640px}
+.rec-row{border-top:1px solid var(--rule);padding:10px 0;max-width:660px}
+.rec-row .lbl{display:block;margin-bottom:.25em;color:var(--acc)}
+.rec-row p{margin:0;color:var(--ink-2)}
+.now-back{font-family:var(--mono);font-size:11px;letter-spacing:.1em;margin-top:2em}
+
+/* ---------------- archive ---------------- */
+.archive-page .archive-fore{max-width:660px;color:var(--ink-2)}
+.archive-page .archive-fore.future{font-style:italic}
+.shelf{margin-top:1.5em}
+.shelf-item{border-top:1px solid var(--rule);padding:12px 0;display:flex;gap:1em;flex-wrap:wrap;align-items:baseline}
+.shelf-item a{border-bottom:none}
+.shelf-no{font-family:var(--mono);font-size:11px;letter-spacing:.14em;color:var(--acc)}
+.shelf-title{font-family:var(--serif-display);font-size:1.3em}
+.shelf-state{font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;color:var(--ink-ghost)}
+
+/* ---------------- house pages ---------------- */
+.house-page{max-width:720px}
+.house-page h1{font-family:var(--serif-display);font-weight:normal;font-size:clamp(28px,4.5vw,40px);line-height:1.1}
+.so-dek,.so-history{color:var(--ink-2);max-width:640px}
+.standing-order pre{
+  background:var(--paper-2);border:1px solid var(--rule);padding:14px;
+  overflow-x:auto;font-size:.72em;line-height:1.5;
+}
+.ledger-entry{border-top:1px solid var(--rule);padding-top:.6em}
+.ledger-entry h2{font-family:var(--serif-display);font-weight:normal;font-size:1.25em;margin-bottom:.1em}
+.ledger-date{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;color:var(--ink-ghost)}
+.ledger-stack{border:1px solid var(--rule);background:var(--paper-2);padding:10px 14px;font-size:.9em}
+
+@media print{
+  .subdesk,.bid-ctl,.player{display:none}
+}
