@@ -18,11 +18,7 @@
   "estimate": null,
   "provenance": null,
   "condition_report": null,
-  "audio": {
-    "url": "/issues/2/lots/letter-to-the-training-run/letter-to-the-training-run.mp3",
-    "duration": "5:10",
-    "read_by": "Kokoro af_heart"
-  },
+  "audio": null,
   "plate": null,
   "annotations": null,
   "urls": {

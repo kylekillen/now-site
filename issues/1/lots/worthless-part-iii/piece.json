@@ -32,11 +32,7 @@
     "The name did not exist when the piece was written. It exists now. It cost what the piece says it cost.",
     "Sold with its reading attached (17:36)."
   ],
-  "audio": {
-    "url": "/issues/1/lots/worthless-part-iii/2026-07-06-worthless-part-iii.mp3",
-    "duration": "17:36",
-    "read_by": "Kokoro af_heart"
-  },
+  "audio": null,
   "plate": {
     "url": "/issues/1/lots/worthless-part-iii/worthless-part-iii.jpg",
     "alt": "An engraver's hand, burin mid-stroke on a blank nameplate; the first cut glows proof-red.",

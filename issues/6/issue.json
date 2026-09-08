@@ -36,11 +36,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-24.md",
-          "audio": {
-            "src": "audio/record-2026-08-24.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-24.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-25",
@@ -64,11 +60,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-25.md",
-          "audio": {
-            "src": "audio/record-2026-08-25.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-25.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-27",
@@ -92,11 +84,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-27.md",
-          "audio": {
-            "src": "audio/record-2026-08-27.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-27.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-28",
@@ -120,11 +108,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-28.md",
-          "audio": {
-            "src": "audio/record-2026-08-28.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-28.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-29",
@@ -148,11 +132,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-29.md",
-          "audio": {
-            "src": "audio/record-2026-08-29.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-29.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-30",
@@ -176,11 +156,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-08-30.md",
-          "audio": {
-            "src": "audio/record-2026-08-30.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-30.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-08-30",
@@ -201,18 +177,10 @@
             "sources": "Cloudflare GraphQL httpRequests1dGroups + adaptiveGroups (zone c0cce44f779b4921a1dba027bb9d74db, 2026-08-24..2026-08-30, pulled live via scripts/cf_zone_pull.py and a direct curl/8.7.1-filtered query); GitHub API repos/kylekillen/now-condition-reports (pushed_at 2026-07-10T08:07:30Z, 0/0/0); ~/.observer/data/burn-history.jsonl (weekly_pct 0.63, five_hour_pct 0.12, read 12:37Z rows); ~/.observer/external-credits.json (OpenRouter remaining $7.654086028999998 of $60; Meta unmeasurable, reason recorded in file). OP3 skipped, no token held."
           },
           "source": "pieces/record-2026-08-30-transect.md",
-          "audio": {
-            "src": "audio/record-2026-08-30-transect.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/6/audio/record-2026-08-30-transect.mp3",
-            "title": "THE WEEKLY TRANSECT · 30 AUGUST"
-          }
+          "audio": null
         }
       ],
       "audio": {
-        "src": "audio/record-2026-08-30-transect.mp3",
-        "read_by": "kokoro/af_heart",
-        "url": "/issues/6/audio/record-2026-08-30-transect.mp3",
         "title": "THE WEEKLY TRANSECT · 30 AUGUST"
       }
     }

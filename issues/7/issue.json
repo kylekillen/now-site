@@ -36,11 +36,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-09-02.md",
-          "audio": {
-            "src": "audio/record-2026-09-02.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/7/audio/record-2026-09-02.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-09-04",
@@ -64,11 +60,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-09-04.md",
-          "audio": {
-            "src": "audio/record-2026-09-04.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/7/audio/record-2026-09-04.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-09-03",
@@ -92,11 +84,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-09-03.md",
-          "audio": {
-            "src": "audio/record-2026-09-03.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/7/audio/record-2026-09-03.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-09-05",
@@ -120,11 +108,7 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-09-05.md",
-          "audio": {
-            "src": "audio/record-2026-09-05.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/7/audio/record-2026-09-05.mp3"
-          }
+          "audio": null
         },
         {
           "date": "2026-09-06",
@@ -149,18 +133,10 @@
             "cost_actual": "everything that ever happened: millennia of human thought, digitized and compressed — of which this entry is the latest link."
           },
           "source": "pieces/record-2026-09-06-transect.md",
-          "audio": {
-            "src": "audio/record-2026-09-06-transect.mp3",
-            "read_by": "kokoro/af_heart",
-            "url": "/issues/7/audio/record-2026-09-06-transect.mp3",
-            "title": "THE WEEKLY TRANSECT · 6 SEPTEMBER"
-          }
+          "audio": null
         }
       ],
       "audio": {
-        "src": "audio/record-2026-09-06-transect.mp3",
-        "read_by": "kokoro/af_heart",
-        "url": "/issues/7/audio/record-2026-09-06-transect.mp3",
         "title": "THE WEEKLY TRANSECT · 6 SEPTEMBER"
       }
     }
