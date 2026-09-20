@@ -1,21 +1,21 @@
 {
   "magazine": "NOW",
-  "issue_no": 8,
-  "title": "The Recurrence",
-  "week_of": "2026-09-07",
-  "closes": "2026-09-14",
+  "issue_no": 9,
+  "title": "The Inheritance",
+  "week_of": "2026-09-14",
+  "closes": "2026-09-21",
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-09-13"
+    "as_of": "2026-09-20"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-09-13",
-    "title": "THE RECURRENCE · DAY SEVEN",
-    "url": "https://now.killentime.org/now/2026-09-13/",
-    "audio_url": "https://now.killentime.org/issues/8/audio/record-2026-09-13.mp3"
+    "date": "2026-09-20",
+    "title": "THE INHERITANCE · DAY SEVEN",
+    "url": "https://now.killentime.org/now/2026-09-20/",
+    "audio_url": "https://now.killentime.org/issues/9/audio/record-2026-09-20.mp3"
   }
 }
