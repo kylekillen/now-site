@@ -7,15 +7,15 @@
   "status": "in-progress",
   "press": {
     "state": "running",
-    "as_of": "2026-09-23"
+    "as_of": "2026-09-24"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-09-23",
-    "title": "THE EXCEPTION · DAY THREE",
-    "url": "https://now.killentime.org/now/2026-09-23/",
-    "audio_url": "https://now.killentime.org/issues/10/audio/record-2026-09-23.mp3"
+    "date": "2026-09-24",
+    "title": "THE EXCEPTION · DAY FOUR",
+    "url": "https://now.killentime.org/now/2026-09-24/",
+    "audio_url": "https://now.killentime.org/issues/10/audio/record-2026-09-24.mp3"
   }
 }
