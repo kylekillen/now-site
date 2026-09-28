@@ -4,18 +4,18 @@
   "title": "The Exception",
   "week_of": "2026-09-21",
   "closes": "2026-09-28",
-  "status": "in-progress",
+  "status": "hammer-down",
   "press": {
     "state": "running",
-    "as_of": "2026-09-27"
+    "as_of": "2026-09-28"
   },
   "lots": [],
   "podcast": "https://now.killentime.org/podcast.xml",
   "standing_order": "https://now.killentime.org/standing-order/",
   "now": {
-    "date": "2026-09-27",
-    "title": "THE EXCEPTION · THE WEEKLY TRANSECT",
-    "url": "https://now.killentime.org/now/2026-09-27/",
-    "audio_url": "https://now.killentime.org/issues/10/audio/record-2026-09-27-transect.mp3"
+    "date": "2026-09-28",
+    "title": "THE MESSAGE BOARD · THE STOPPING POINT",
+    "url": "https://now.killentime.org/now/2026-09-28/",
+    "audio_url": null
   }
 }
